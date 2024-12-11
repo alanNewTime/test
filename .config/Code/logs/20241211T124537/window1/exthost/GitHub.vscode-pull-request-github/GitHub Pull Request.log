@@ -17,3 +17,9 @@
 2024-12-11 14:30:56.957 [info] Repo file:///home/alan-omam has already been setup.
 2024-12-11 14:37:00.493 [warning] No remotes found. The following remotes are missing: origin, upstream
 2024-12-11 14:37:00.493 [info] No GitHub remotes found for folder /home/alan-omam
+2024-12-11 14:54:53.890 [info] Review+0> Validate state in progress
+2024-12-11 14:54:53.890 [info] Review+0> Validating state...
+2024-12-11 14:54:53.894 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-12-11 14:54:53.894 [info] No GitHub remotes found for folder /home/alan-omam
+2024-12-11 14:54:53.983 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-12-11 14:54:54.230 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
