@@ -7,21 +7,29 @@
         "folders": [
             {
                 "folderUri": "file:///home/alan-omam/Scrivania/test"
+            },
+            {
+                "folderUri": "file:///home/alan-omam/Scrivania/test2"
             }
         ],
         "emptyWindows": [
             {
                 "backupFolder": "1733928952622"
+            },
+            {
+                "backupFolder": "1733929624193"
             }
         ]
     },
     "profileAssociations": {
         "workspaces": {
             "file:///home/alan-omam/Scrivania/test": "__default__profile__",
-            "file:///home/alan-omam/Scrivania/test/WORK": "__default__profile__"
+            "file:///home/alan-omam/Scrivania/test/WORK": "__default__profile__",
+            "file:///home/alan-omam/Scrivania/test2": "__default__profile__"
         },
         "emptyWindows": {
-            "1733928952622": "__default__profile__"
+            "1733928952622": "__default__profile__",
+            "1733929624193": "__default__profile__"
         }
     },
     "lastKnownMenubarData": {
@@ -79,6 +87,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alan-omam/Scrivania/test2",
+                                        "path": "/home/alan-omam/Scrivania/test2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Scrivania/test2"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -169,6 +188,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "issue.copyGithubPermalink",
                                     "label": "Copy GitHub Permalink"
@@ -504,8 +530,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -706,13 +731,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -821,7 +839,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -830,7 +849,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1150,7 +1170,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1503,11 +1524,6 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
-            },
             "workbench.action.copyEditorToNewWindow": {
                 "label": "Ctrl+K O",
                 "isNative": false,
@@ -1756,16 +1772,39 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/alan-omam/Scrivania/test",
-            "backupPath": "/home/alan-omam/.config/Code/Backups/120343da401838087db27f92c692399e",
+            "folder": "file:///home/alan-omam/Scrivania/test2",
+            "backupPath": "/home/alan-omam/.config/Code/Backups/7418fd2e6818635dd6ea1bfa0af4f896",
             "uiState": {
                 "mode": 1,
-                "x": 1679,
-                "y": 53,
-                "width": 1029,
-                "height": 769
+                "x": 1792,
+                "y": 48,
+                "width": 1027,
+                "height": 768
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///home/alan-omam/Scrivania/test",
+                "backupPath": "/home/alan-omam/.config/Code/Backups/120343da401838087db27f92c692399e",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1679,
+                    "y": 53,
+                    "width": 1029,
+                    "height": 769
+                }
+            },
+            {
+                "folder": "file:///home/alan-omam/Scrivania/test2",
+                "backupPath": "/home/alan-omam/.config/Code/Backups/7418fd2e6818635dd6ea1bfa0af4f896",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1792,
+                    "y": 48,
+                    "width": 1027,
+                    "height": 768
+                }
+            }
+        ]
     }
 }
