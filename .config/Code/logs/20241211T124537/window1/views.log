@@ -47,3 +47,24 @@
 2024-12-11 14:16:15.462 [info] Added views:gitlens.views.commitDetails,gitlens.views.lineHistory,gitlens.views.fileHistory,gitlens.views.timeline,gitlens.views.searchAndCompare in workbench.view.extension.gitlensInspect
 2024-12-11 14:16:15.462 [info] Added views:gitlens.views.scm.grouped in workbench.view.scm
 2024-12-11 14:16:26.104 [info] Added views:workbench.scm.history in workbench.view.scm
+2024-12-11 14:30:34.863 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2024-12-11 14:30:34.869 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
+2024-12-11 14:30:42.013 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2024-12-11 14:30:42.030 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2024-12-11 14:30:51.693 [info] Added views:pr:github,issues:github in workbench.view.extension.github-pull-requests
+2024-12-11 14:30:52.288 [info] Removed views:issues:github,pr:github from workbench.view.extension.github-pull-requests
+2024-12-11 14:30:52.289 [info] Added views:github:login in workbench.view.extension.github-pull-requests
+2024-12-11 14:31:40.253 [info] Removed views:workbench.views.extensions.marketplace from workbench.view.extensions
+2024-12-11 14:31:40.277 [info] Added views:workbench.views.extensions.installed,extensions.recommendedList in workbench.view.extensions
+2024-12-11 14:31:42.223 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2024-12-11 14:31:42.235 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2024-12-11 14:32:43.706 [info] Removed views:workbench.views.extensions.marketplace from workbench.view.extensions
+2024-12-11 14:32:43.737 [info] Added views:workbench.views.extensions.installed,extensions.recommendedList in workbench.view.extensions
+2024-12-11 14:32:48.719 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2024-12-11 14:32:48.729 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2024-12-11 14:33:16.048 [info] Removed views:workbench.views.extensions.marketplace from workbench.view.extensions
+2024-12-11 14:33:16.075 [info] Added views:workbench.views.extensions.installed,extensions.recommendedList in workbench.view.extensions
+2024-12-11 14:37:00.496 [info] Removed views:github:login from workbench.view.extension.github-pull-requests
+2024-12-11 14:37:00.497 [info] Added views:pr:github,issues:github in workbench.view.extension.github-pull-requests
+2024-12-11 14:47:10.091 [info] Showing view workbench.explorer.openEditorsView in the container workbench.view.explorer
+2024-12-11 14:47:10.110 [info] Added views:workbench.explorer.openEditorsView in workbench.view.explorer

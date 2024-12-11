@@ -1,3 +1,5 @@
 [user]
 	name = AlanOmam
 	email = alan.omam@newtimegroup.it
+[init]
+	defaultBranch = main

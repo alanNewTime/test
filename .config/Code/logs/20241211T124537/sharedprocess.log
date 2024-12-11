@@ -11,3 +11,16 @@
     at Fr.stat (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
     at async Zl.stat (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
     at async Jl.yb (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-12-11 14:30:49.148 [info] Getting Manifest... github.vscode-pull-request-github
+2024-12-11 14:30:49.270 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alan-omam/.vscode/extensions/extensions.json","path":"/home/alan-omam/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-12-11 14:30:51.382 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Executed: true. Duration: 1050ms.
+2024-12-11 14:30:51.566 [info] Extracted extension to file:///home/alan-omam/.vscode/extensions/github.vscode-pull-request-github-0.100.3: github.vscode-pull-request-github
+2024-12-11 14:30:51.576 [info] Renamed to /home/alan-omam/.vscode/extensions/github.vscode-pull-request-github-0.100.3
+2024-12-11 14:30:51.620 [info] Extension installed successfully: github.vscode-pull-request-github vscode-userdata:/home/alan-omam/.vscode/extensions/extensions.json
+2024-12-11 14:30:51.668 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/alan-omam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/alan-omam/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
