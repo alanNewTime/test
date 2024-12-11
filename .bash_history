@@ -68,3 +68,17 @@ cd home
 cd /home
 cd /scrivania
 cd /Scrivania
+nvm install 22
+cd react-side
+npm run dev
+cd
+cd Scrivania
+cd test
+cd WORK
+npmi 
+npm i
+cd react-side
+npm i
+npm audit
+npm audit fix --force
+npm run dev

@@ -11,19 +11,17 @@
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1733911958968"
-            },
-            {
-                "backupFolder": "1733917538581"
+                "backupFolder": "1733928952622"
             }
         ]
     },
     "profileAssociations": {
         "workspaces": {
-            "file:///home/alan-omam/Scrivania/test": "__default__profile__"
+            "file:///home/alan-omam/Scrivania/test": "__default__profile__",
+            "file:///home/alan-omam/Scrivania/test/WORK": "__default__profile__"
         },
         "emptyWindows": {
-            "1733911958968": "__default__profile__"
+            "1733928952622": "__default__profile__"
         }
     },
     "lastKnownMenubarData": {
@@ -94,6 +92,28 @@
                                     "label": "~/Scrivania/test"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alan-omam/Scrivania/test3",
+                                        "path": "/home/alan-omam/Scrivania/test3",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Scrivania/test3"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alan-omam/Scrivania/test2/TEST-FULLSTACK",
+                                        "path": "/home/alan-omam/Scrivania/test2/TEST-FULLSTACK",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Scrivania/test2/TEST-FULLSTACK"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -149,6 +169,21 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "issue.copyGithubPermalink",
+                                    "label": "Copy GitHub Permalink"
+                                },
+                                {
+                                    "id": "issue.copyMarkdownGithubPermalink",
+                                    "label": "Copy GitHub Permalink as Markdown"
+                                },
+                                {
+                                    "id": "issue.copyGithubHeadLink",
+                                    "label": "Copy GitHub Head Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -216,8 +251,9 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "Backup and Sync Settings..."
+                                    "id": "workbench.userDataSync.actions.manage",
+                                    "label": "Settings Sync is On",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -277,6 +313,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.MenubarCopy",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "issue.copyGithubPermalink",
+                                    "label": "Copy GitHub Permalink"
+                                },
+                                {
+                                    "id": "issue.copyMarkdownGithubPermalink",
+                                    "label": "Copy GitHub Permalink as Markdown"
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -649,6 +701,13 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1444,6 +1503,11 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
             "workbench.action.copyEditorToNewWindow": {
                 "label": "Ctrl+K O",
                 "isNative": false,
@@ -1695,11 +1759,11 @@
             "folder": "file:///home/alan-omam/Scrivania/test",
             "backupPath": "/home/alan-omam/.config/Code/Backups/120343da401838087db27f92c692399e",
             "uiState": {
-                "mode": 0,
-                "x": 1536,
-                "y": 29,
-                "width": 1536,
-                "height": 835
+                "mode": 1,
+                "x": 1679,
+                "y": 53,
+                "width": 1029,
+                "height": 769
             }
         },
         "openedWindows": []

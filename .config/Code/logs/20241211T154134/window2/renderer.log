@@ -1,0 +1,28 @@
+2024-12-11 15:41:36.003 [info] Started local extension host with pid 77411.
+2024-12-11 15:41:37.387 [info] Settings Sync: Updating due to initialize
+2024-12-11 15:41:37.387 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.387 [info] Settings Sync: Authentication providers updated []
+2024-12-11 15:41:37.409 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.409 [info] Settings Sync: Authentication providers updated ["github"]
+2024-12-11 15:41:37.410 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.411 [info] Settings Sync: Authentication providers updated ["github"]
+2024-12-11 15:41:37.411 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.411 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 15:41:37.411 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.412 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 15:41:37.682 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-12-11 15:41:37.682 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.682 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 15:41:37.682 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-12-11 15:41:37.683 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.683 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 15:41:37.943 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:41:37.944 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 15:41:38.839 [info] [perf] Render performance baseline is 37ms
+2024-12-11 15:43:38.564 [error] [Extension Host] (node:77411) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-12-11 15:43:43.259 [info] Started local extension host with pid 78628.
+2024-12-11 15:43:44.139 [info] Settings Sync: Updating due to initialize
+2024-12-11 15:43:44.140 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 15:43:44.140 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 15:43:46.130 [info] [perf] Render performance baseline is 41ms

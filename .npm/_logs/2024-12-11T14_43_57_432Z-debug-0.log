@@ -1,0 +1,150 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@9.2.0
+2 info using node@v18.19.1
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:/usr/share/nodejs/npm/npmrc Completed in 4ms
+6 timing config:load:builtin Completed in 4ms
+7 timing config:load:cli Completed in 4ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/home/alan-omam/.cache/typescript/5.6/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 4ms
+11 timing config:load:file:/home/alan-omam/.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 3ms
+16 timing config:load Completed in 21ms
+17 timing npm:load:configload Completed in 21ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm install @types/react@ts5.6 @types/three@ts5.6
+21 verbose argv "install" "--ignore-scripts" "@types/react@ts5.6" "@types/three@ts5.6" "--save-dev" "--user-agent" "typesInstaller/5.6.3"
+22 timing npm:load:setTitle Completed in 3ms
+23 timing config:load:flatten Completed in 5ms
+24 timing npm:load:display Completed in 6ms
+25 verbose logfile logs-max:10 dir:/home/alan-omam/.npm/_logs/2024-12-11T14_43_57_432Z-
+26 verbose logfile /home/alan-omam/.npm/_logs/2024-12-11T14_43_57_432Z-debug-0.log
+27 timing npm:load:logFile Completed in 11ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 42ms
+31 silly logfile done cleaning log files
+32 timing config:load:flatten Completed in 1ms
+33 timing arborist:ctor Completed in 2ms
+34 timing idealTree:init Completed in 21ms
+35 timing arborist:ctor Completed in 1ms
+36 http fetch GET 200 https://registry.npmjs.org/@types%2fthree 187ms (cache miss)
+37 http fetch GET 200 https://registry.npmjs.org/@types%2freact 200ms (cache miss)
+38 timing idealTree:userRequests Completed in 214ms
+39 silly idealTree buildDeps
+40 silly fetch manifest @types/three@0.170.0
+41 silly fetch manifest @types/react@19.0.1
+42 silly placeDep ROOT @types/react@19.0.1 OK for:  want: 19.0.1
+43 silly placeDep ROOT @types/three@0.170.0 OK for:  want: 0.170.0
+44 silly fetch manifest csstype@^3.0.2
+45 silly fetch manifest fflate@~0.8.2
+46 silly fetch manifest @types/webxr@*
+47 silly fetch manifest @webgpu/types@*
+48 silly fetch manifest meshoptimizer@~0.18.1
+49 silly fetch manifest @types/stats.js@*
+50 silly fetch manifest @tweenjs/tween.js@~23.1.3
+51 http fetch GET 200 https://registry.npmjs.org/fflate 48ms (cache miss)
+52 http fetch GET 200 https://registry.npmjs.org/csstype 53ms (cache miss)
+53 http fetch GET 200 https://registry.npmjs.org/@types%2fstats.js 130ms (cache miss)
+54 http fetch GET 200 https://registry.npmjs.org/@webgpu%2ftypes 143ms (cache miss)
+55 http fetch GET 200 https://registry.npmjs.org/@types%2fwebxr 198ms (cache miss)
+56 http fetch GET 200 https://registry.npmjs.org/@tweenjs%2ftween.js 198ms (cache miss)
+57 http fetch GET 200 https://registry.npmjs.org/meshoptimizer 738ms (cache miss)
+58 timing idealTree:#root Completed in 755ms
+59 silly placeDep ROOT csstype@3.1.3 OK for: @types/react@19.0.1 want: ^3.0.2
+60 timing idealTree:node_modules/@types/react Completed in 5ms
+61 silly placeDep ROOT @tweenjs/tween.js@23.1.3 OK for: @types/three@0.170.0 want: ~23.1.3
+62 silly placeDep ROOT @types/stats.js@0.17.3 OK for: @types/three@0.170.0 want: *
+63 silly placeDep ROOT @types/webxr@0.5.20 OK for: @types/three@0.170.0 want: *
+64 silly placeDep ROOT @webgpu/types@0.1.51 OK for: @types/three@0.170.0 want: *
+65 silly placeDep ROOT fflate@0.8.2 OK for: @types/three@0.170.0 want: ~0.8.2
+66 silly placeDep ROOT meshoptimizer@0.18.1 OK for: @types/three@0.170.0 want: ~0.18.1
+67 timing idealTree:node_modules/@types/three Completed in 16ms
+68 timing idealTree:node_modules/@tweenjs/tween.js Completed in 0ms
+69 timing idealTree:node_modules/@types/stats.js Completed in 0ms
+70 timing idealTree:node_modules/@types/webxr Completed in 0ms
+71 timing idealTree:node_modules/@webgpu/types Completed in 0ms
+72 timing idealTree:node_modules/csstype Completed in 0ms
+73 timing idealTree:node_modules/fflate Completed in 0ms
+74 timing idealTree:node_modules/meshoptimizer Completed in 0ms
+75 timing idealTree:buildDeps Completed in 778ms
+76 timing idealTree:fixDepFlags Completed in 1ms
+77 timing idealTree Completed in 1017ms
+78 timing reify:loadTrees Completed in 1018ms
+79 timing reify:diffTrees Completed in 3ms
+80 silly reify moves {}
+81 timing reify:retireShallow Completed in 2ms
+82 timing reify:createSparse Completed in 2ms
+83 timing reify:loadBundles Completed in 0ms
+84 silly audit bulk request {
+84 silly audit   'types-registry': [ '0.1.698' ],
+84 silly audit   '@types/react': [ '19.0.1' ],
+84 silly audit   '@types/three': [ '0.170.0' ],
+84 silly audit   csstype: [ '3.1.3' ],
+84 silly audit   '@tweenjs/tween.js': [ '23.1.3' ],
+84 silly audit   '@types/stats.js': [ '0.17.3' ],
+84 silly audit   '@types/webxr': [ '0.5.20' ],
+84 silly audit   '@webgpu/types': [ '0.1.51' ],
+84 silly audit   fflate: [ '0.8.2' ],
+84 silly audit   meshoptimizer: [ '0.18.1' ]
+84 silly audit }
+85 silly tarball no local data for meshoptimizer@https://registry.npmjs.org/meshoptimizer/-/meshoptimizer-0.18.1.tgz. Extracting by manifest.
+86 silly tarball no local data for fflate@https://registry.npmjs.org/fflate/-/fflate-0.8.2.tgz. Extracting by manifest.
+87 silly tarball no local data for @webgpu/types@https://registry.npmjs.org/@webgpu/types/-/types-0.1.51.tgz. Extracting by manifest.
+88 silly tarball no local data for @types/webxr@https://registry.npmjs.org/@types/webxr/-/webxr-0.5.20.tgz. Extracting by manifest.
+89 silly tarball no local data for @types/stats.js@https://registry.npmjs.org/@types/stats.js/-/stats.js-0.17.3.tgz. Extracting by manifest.
+90 silly tarball no local data for @tweenjs/tween.js@https://registry.npmjs.org/@tweenjs/tween.js/-/tween.js-23.1.3.tgz. Extracting by manifest.
+91 silly tarball no local data for csstype@https://registry.npmjs.org/csstype/-/csstype-3.1.3.tgz. Extracting by manifest.
+92 silly tarball no local data for @types/three@https://registry.npmjs.org/@types/three/-/three-0.170.0.tgz. Extracting by manifest.
+93 silly tarball no local data for @types/react@https://registry.npmjs.org/@types/react/-/react-19.0.1.tgz. Extracting by manifest.
+94 http fetch GET 200 https://registry.npmjs.org/@types/stats.js/-/stats.js-0.17.3.tgz 175ms (cache miss)
+95 timing reifyNode:node_modules/@types/stats.js Completed in 218ms
+96 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 241ms
+97 timing auditReport:getReport Completed in 244ms
+98 silly audit report {}
+99 timing auditReport:init Completed in 0ms
+100 timing reify:audit Completed in 245ms
+101 http fetch GET 200 https://registry.npmjs.org/@tweenjs/tween.js/-/tween.js-23.1.3.tgz 196ms (cache miss)
+102 http fetch GET 200 https://registry.npmjs.org/@types/webxr/-/webxr-0.5.20.tgz 201ms (cache miss)
+103 timing reifyNode:node_modules/@types/webxr Completed in 242ms
+104 timing reifyNode:node_modules/@tweenjs/tween.js Completed in 243ms
+105 http fetch GET 200 https://registry.npmjs.org/@webgpu/types/-/types-0.1.51.tgz 206ms (cache miss)
+106 timing reifyNode:node_modules/@webgpu/types Completed in 245ms
+107 http fetch GET 200 https://registry.npmjs.org/meshoptimizer/-/meshoptimizer-0.18.1.tgz 230ms (cache miss)
+108 timing reifyNode:node_modules/meshoptimizer Completed in 264ms
+109 http fetch GET 200 https://registry.npmjs.org/fflate/-/fflate-0.8.2.tgz 268ms (cache miss)
+110 timing reifyNode:node_modules/fflate Completed in 305ms
+111 http fetch GET 200 https://registry.npmjs.org/@types/react/-/react-19.0.1.tgz 251ms (cache miss)
+112 timing reifyNode:node_modules/@types/react Completed in 307ms
+113 http fetch GET 200 https://registry.npmjs.org/csstype/-/csstype-3.1.3.tgz 263ms (cache miss)
+114 timing reifyNode:node_modules/csstype Completed in 307ms
+115 http fetch GET 200 https://registry.npmjs.org/@types/three/-/three-0.170.0.tgz 480ms (cache miss)
+116 timing reifyNode:node_modules/@types/three Completed in 536ms
+117 timing reify:unpack Completed in 539ms
+118 timing reify:unretire Completed in 1ms
+119 timing build:queue Completed in 1ms
+120 timing build:deps Completed in 1ms
+121 timing build Completed in 2ms
+122 timing reify:build Completed in 3ms
+123 timing reify:trash Completed in 0ms
+124 timing reify:save Completed in 10ms
+125 timing reify Completed in 1591ms
+126 silly ADD node_modules/meshoptimizer
+127 silly ADD node_modules/fflate
+128 silly ADD node_modules/@webgpu/types
+129 silly ADD node_modules/@types/webxr
+130 silly ADD node_modules/@types/stats.js
+131 silly ADD node_modules/@tweenjs/tween.js
+132 silly ADD node_modules/csstype
+133 silly ADD node_modules/@types/three
+134 silly ADD node_modules/@types/react
+135 timing command:install Completed in 1598ms
+136 verbose exit 0
+137 timing npm Completed in 1659ms
+138 info ok

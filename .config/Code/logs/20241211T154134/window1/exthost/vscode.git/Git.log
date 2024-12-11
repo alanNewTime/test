@@ -1,0 +1,31 @@
+2024-12-11 15:41:38.712 [info] [main] Log level: Info
+2024-12-11 15:41:38.712 [info] [main] Validating found git in: "git"
+2024-12-11 15:41:38.712 [info] [main] Using git "2.43.0" from "git"
+2024-12-11 15:41:38.712 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-11 15:41:38.712 [info] > git rev-parse --show-toplevel [47ms]
+2024-12-11 15:41:38.712 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-12-11 15:41:38.712 [info] [Model][openRepository] Opened repository: /home/alan-omam
+2024-12-11 15:41:38.712 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-11 15:41:38.712 [info] > git config --get commit.template [384ms]
+2024-12-11 15:41:38.712 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-11 15:41:39.008 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [297ms]
+2024-12-11 15:41:39.281 [info] > git status -z -uall [258ms]
+2024-12-11 15:41:39.282 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [242ms]
+2024-12-11 15:41:39.455 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [144ms]
+2024-12-11 15:41:39.552 [info] > git config --local branch.master.vscode-merge-base [85ms]
+2024-12-11 15:41:39.552 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-11 15:41:39.566 [info] > git config --get commit.template [118ms]
+2024-12-11 15:41:39.588 [info] > git reflog master --grep-reflog=branch: Created from *. [22ms]
+2024-12-11 15:41:39.643 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-11 15:41:39.688 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [92ms]
+2024-12-11 15:41:39.688 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-12-11 15:41:39.688 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-12-11 15:41:39.756 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [114ms]
+2024-12-11 15:41:39.796 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2024-12-11 15:41:39.927 [info] > git config --local branch.master.github-pr-owner-number [19ms]
+2024-12-11 15:41:39.928 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-11 15:41:39.950 [info] > git config --local branch.master.remote [4ms]
+2024-12-11 15:41:39.951 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-11 15:41:39.964 [info] > git status -z -uall [195ms]
+2024-12-11 15:41:39.977 [info] > git config --local branch.master.merge [14ms]
+2024-12-11 15:41:39.977 [warning] [Git][config] git config failed: Failed to execute git

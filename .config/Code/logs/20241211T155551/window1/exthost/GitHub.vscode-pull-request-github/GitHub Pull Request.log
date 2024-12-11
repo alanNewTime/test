@@ -1,0 +1,39 @@
+2024-12-11 15:55:54.903 [warning] /home/alan-omam/.ssh/config: ENOENT: no such file or directory, open '/home/alan-omam/.ssh/config'
+2024-12-11 15:55:54.903 [info] Activation> Extension version: 0.100.3
+2024-12-11 15:55:54.919 [info] Looking for git repository
+2024-12-11 15:55:54.919 [info] Found 0 repositories during activation
+2024-12-11 15:55:54.919 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-11 15:55:54.920 [info] Registering git provider
+2024-12-11 15:56:32.349 [warning] /home/alan-omam/.ssh/config: ENOENT: no such file or directory, open '/home/alan-omam/.ssh/config'
+2024-12-11 15:56:32.349 [info] Activation> Extension version: 0.100.3
+2024-12-11 15:56:32.587 [info] Looking for git repository
+2024-12-11 15:56:32.587 [info] Found 0 repositories during activation
+2024-12-11 15:56:32.587 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-11 15:56:32.592 [info] Registering git provider
+2024-12-11 15:56:32.592 [info] Review+0> Validate state in progress
+2024-12-11 15:56:32.592 [info] Review+0> Validating state...
+2024-12-11 15:56:32.592 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-12-11 15:56:32.592 [info] No GitHub remotes found for folder /home/alan-omam
+2024-12-11 15:56:32.639 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-12-11 15:56:32.681 [info] Repo state for file:///home/alan-omam changed.
+2024-12-11 15:56:32.682 [info] Repo file:///home/alan-omam has already been setup.
+2024-12-11 15:56:32.703 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-12-11 15:58:05.900 [info] Review+0> Validate state in progress
+2024-12-11 15:58:05.900 [info] Review+0> Validating state...
+2024-12-11 15:58:05.911 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-12-11 15:58:05.911 [info] No GitHub remotes found for folder /home/alan-omam
+2024-12-11 15:58:05.959 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-11 15:58:06.192 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-11 15:58:32.551 [info] Review+0> Validate state in progress
+2024-12-11 15:58:32.551 [info] Review+0> Validating state...
+2024-12-11 15:58:32.557 [info] Found GitHub remote for folder /home/alan-omam
+2024-12-11 15:58:33.098 [info] Trying to use globalState for assignableUsers.
+2024-12-11 15:58:33.200 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-11 15:58:33.215 [info] No globalState for assignableUsers.
+2024-12-11 15:58:33.244 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-11 16:02:16.066 [info] Review+0> Validate state in progress
+2024-12-11 16:02:16.066 [info] Review+0> Validating state...
+2024-12-11 16:02:16.092 [info] Found GitHub remote for folder /home/alan-omam
+2024-12-11 16:02:16.093 [info] Using in-memory cached assignable users.
+2024-12-11 16:02:16.106 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-11 16:02:16.670 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

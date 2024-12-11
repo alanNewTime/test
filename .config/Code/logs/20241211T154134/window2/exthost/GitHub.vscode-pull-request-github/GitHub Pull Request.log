@@ -1,0 +1,21 @@
+2024-12-11 15:41:38.353 [warning] /home/alan-omam/.ssh/config: ENOENT: no such file or directory, open '/home/alan-omam/.ssh/config'
+2024-12-11 15:41:38.353 [info] Activation> Extension version: 0.100.3
+2024-12-11 15:41:38.437 [info] Looking for git repository
+2024-12-11 15:41:38.437 [info] Found 0 repositories during activation
+2024-12-11 15:41:38.437 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-11 15:41:38.438 [info] Registering git provider
+2024-12-11 15:43:45.646 [warning] /home/alan-omam/.ssh/config: ENOENT: no such file or directory, open '/home/alan-omam/.ssh/config'
+2024-12-11 15:43:45.646 [info] Activation> Extension version: 0.100.3
+2024-12-11 15:43:46.363 [info] Looking for git repository
+2024-12-11 15:43:46.363 [info] Found 0 repositories during activation
+2024-12-11 15:43:46.363 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-11 15:43:46.371 [info] Registering git provider
+2024-12-11 15:43:46.372 [info] Review+0> Validate state in progress
+2024-12-11 15:43:46.372 [info] Review+0> Validating state...
+2024-12-11 15:43:46.439 [info] Found GitHub remote for folder /home/alan-omam/Scrivania/test/WORK
+2024-12-11 15:43:46.745 [info] Trying to use globalState for assignableUsers.
+2024-12-11 15:43:46.853 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-11 15:43:46.886 [info] No globalState for assignableUsers.
+2024-12-11 15:43:47.198 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-11 15:46:10.133 [info] Repo state for file:///home/alan-omam/Scrivania/test/WORK changed.
+2024-12-11 15:46:10.133 [info] Repo file:///home/alan-omam/Scrivania/test/WORK has already been setup.

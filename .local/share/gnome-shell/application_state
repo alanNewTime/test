@@ -4,22 +4,22 @@
     <application id="gnome-session-properties.desktop" score="0" last-seen="1733835264"/>
     <application id="org.gnome.TextEditor.desktop" score="33" last-seen="1733914935"/>
     <application id="obsidian_obsidian.desktop" score="9" last-seen="1733916858"/>
-    <application id="chromium_chromium.desktop" score="1066" last-seen="1733925136"/>
-    <application id="snap-store_snap-store.desktop" score="180" last-seen="1733923435"/>
+    <application id="chromium_chromium.desktop" score="1201" last-seen="1733929126"/>
+    <application id="snap-store_snap-store.desktop" score="187" last-seen="1733926825"/>
     <application id="org.gnome.PowerStats.desktop" score="0" last-seen="1733843289"/>
     <application id="update-manager.desktop" score="1" last-seen="1733906965"/>
-    <application id="org.gnome.Nautilus.desktop" score="219" last-seen="1733924770"/>
+    <application id="org.gnome.Nautilus.desktop" score="225" last-seen="1733928871"/>
     <application id="drawio_drawio.desktop" score="13" last-seen="1733916296"/>
-    <application id="code_code.desktop" score="345" last-seen="1733924954"/>
+    <application id="code_code.desktop" score="686" last-seen="1733929133"/>
     <application id="org.gnome.seahorse.Application.desktop" score="3" last-seen="1733910248"/>
     <application id="gnome-initial-setup.desktop" score="4" last-seen="1733834657"/>
-    <application id="org.gnome.Terminal.desktop" score="77" last-seen="1733911482"/>
-    <application id="xdg-desktop-portal-gnome.desktop" score="4" last-seen="1733924253"/>
+    <application id="org.gnome.Terminal.desktop" score="86" last-seen="1733928059"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="4" last-seen="1733927656"/>
     <application id="firefox_firefox.desktop" score="324" last-seen="1733913497"/>
     <application id="postman_postman.desktop" score="9" last-seen="1733916017"/>
     <application id="org.gnome.DiskUtility.desktop" score="5" last-seen="1733916618"/>
     <application id="code.desktop" score="15" last-seen="1733908106"/>
-    <application id="notepad-plus-plus_notepad-plus-plus.desktop" score="20" last-seen="1733925132"/>
+    <application id="notepad-plus-plus_notepad-plus-plus.desktop" score="20" last-seen="1733926865"/>
     <application id="org.gnome.Settings.desktop" score="71" last-seen="1733916447"/>
   </context>
 </application-state>

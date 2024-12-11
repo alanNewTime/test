@@ -1,0 +1,177 @@
+2024-12-11 15:55:53.424 [info] Extension host with pid 85040 started
+2024-12-11 15:55:53.490 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-11 15:55:53.640 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-11 15:55:53.762 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-11 15:55:54.042 [info] Eager extensions activated
+2024-12-11 15:55:54.045 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-11 15:55:54.105 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:55:54.108 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:55:54.141 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:55:54.361 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:55:54.546 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:55:55.084 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-11 15:55:55.104 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-11 15:55:55.213 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-11 15:55:55.288 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-11 15:56:29.017 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-11 15:56:29.088 [error] Canceled: Canceled
+	at new tT (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at f (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:14096)
+	at c (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:18656)
+	at ActionRunners._updateContextKeys (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:65661)
+	at s (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64105)
+	at RegisteredActionRunner.unregister (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64248)
+	at RegisteredActionRunner.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:62902)
+	at ActionRunners.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:63688)
+	at /home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14975
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14957)
+	at ci (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-11 15:56:29.089 [error] Canceled: Canceled
+	at new tT (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at f (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:14096)
+	at c (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:18656)
+	at ActionRunners._updateContextKeys (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:65661)
+	at s (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64105)
+	at RegisteredActionRunner.unregister (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64248)
+	at RegisteredActionRunner.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:62902)
+	at ActionRunners.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:63688)
+	at /home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14975
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14957)
+	at ci (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-11 15:56:29.089 [error] Canceled: Canceled
+	at new tT (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at f (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:14096)
+	at c (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:18656)
+	at ActionRunners._updateContextKeys (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:65661)
+	at s (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64105)
+	at RegisteredActionRunner.unregister (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64248)
+	at RegisteredActionRunner.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:62902)
+	at Object.dispose (/home/alan-omam/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64342)
+	at ci (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///snap/code/176/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-11 15:56:29.091 [info] Extension host with pid 85040 exiting with code 0
+2024-12-11 15:56:30.449 [info] Extension host with pid 85391 started
+2024-12-11 15:56:30.449 [info] Skipping acquiring lock for /home/alan-omam/.config/Code/User/workspaceStorage/56abe76f1a7c678a8bc39549f9bc1205.
+2024-12-11 15:56:30.505 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-11 15:56:30.524 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-11 15:56:30.641 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-11 15:56:30.813 [info] Eager extensions activated
+2024-12-11 15:56:30.902 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-11 15:56:30.994 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:56:30.999 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:56:31.033 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:56:31.277 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:56:31.601 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2908
+2024-12-11 15:56:31.623 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-11 15:56:31.650 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 15:56:32.677 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2909
+2024-12-11 15:56:39.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2920
+2024-12-11 15:56:45.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2919
+2024-12-11 15:56:50.466 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2920
+2024-12-11 15:56:54.269 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/176/usr/share/code/resources/app/extensions/git/dist/main.js:2:1044269)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-12-11 15:56:55.272 [error] Error: Git error
+	at ChildProcess.<anonymous> (/snap/code/176/usr/share/code/resources/app/extensions/git/dist/main.js:2:1044269)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-12-11 15:56:55.775 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2920
+2024-12-11 15:57:01.077 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2922
+2024-12-11 15:57:06.373 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2922
+2024-12-11 15:57:11.697 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2922
+2024-12-11 15:57:16.997 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2923
+2024-12-11 15:57:22.295 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:57:27.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:57:32.946 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2927
+2024-12-11 15:57:38.240 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2927
+2024-12-11 15:57:58.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2927
+2024-12-11 15:58:04.121 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:58:05.896 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:58:09.421 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:58:14.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:58:27.252 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:58:32.547 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2926
+2024-12-11 15:58:47.214 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2928
+2024-12-11 15:58:52.513 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2928
+2024-12-11 15:58:58.588 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2928
+2024-12-11 15:59:03.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2928
+2024-12-11 15:59:09.265 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2928
+2024-12-11 15:59:14.625 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2928
+2024-12-11 15:59:19.948 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2928
+2024-12-11 15:59:25.321 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2929
+2024-12-11 15:59:30.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2929
+2024-12-11 15:59:35.994 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2929
+2024-12-11 15:59:41.319 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2933
+2024-12-11 15:59:46.637 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2937
+2024-12-11 16:02:16.061 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2993
+2024-12-11 16:02:38.261 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3071
+2024-12-11 16:02:43.575 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3070
+2024-12-11 16:02:48.911 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3070
