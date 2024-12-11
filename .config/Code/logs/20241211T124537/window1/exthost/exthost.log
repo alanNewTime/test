@@ -132,3 +132,11 @@
 2024-12-11 14:16:26.130 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
 2024-12-11 14:16:32.347 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
 2024-12-11 14:16:33.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-12-11 14:17:41.937 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2024-12-11 14:25:25.117 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-11 14:27:57.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 12540
+2024-12-11 14:27:58.021 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2575
+2024-12-11 14:27:59.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2575
+2024-12-11 14:28:04.936 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2576
+2024-12-11 14:28:10.191 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2575
+2024-12-11 14:28:15.411 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2576
