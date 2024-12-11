@@ -1,0 +1,7 @@
+2024-12-11 09:49:45.759 [info] Started local extension host with pid 10847.
+2024-12-11 09:49:45.802 [info] Started initializing default profile extensions in extensions installation folder. file:///home/alan-omam/.vscode/extensions
+2024-12-11 09:49:46.052 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/alan-omam/.vscode/extensions
+2024-12-11 09:49:46.429 [info] Settings Sync: Updating due to initialize
+2024-12-11 09:49:46.430 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 09:49:46.430 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 09:49:49.104 [info] [perf] Render performance baseline is 43ms

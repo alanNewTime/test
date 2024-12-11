@@ -1,0 +1,13 @@
+2024-12-11 12:52:59.497 [info] Getting Manifest... ritwickdey.liveserver
+2024-12-11 12:52:59.627 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alan-omam/.vscode/extensions/extensions.json","path":"/home/alan-omam/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-12-11 12:53:03.195 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 1041ms.
+2024-12-11 12:53:05.263 [info] Extracted extension to file:///home/alan-omam/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-12-11 12:53:05.281 [info] Renamed to /home/alan-omam/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2024-12-11 12:53:05.316 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/alan-omam/.vscode/extensions/extensions.json
+2024-12-11 12:53:05.373 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/alan-omam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/alan-omam/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///snap/code/176/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

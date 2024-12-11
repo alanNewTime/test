@@ -1,0 +1,5 @@
+2024/12/11-11:21:15.631 4 Creating DB /home/alan-omam/snap/chromium/common/chromium/Default/Session Storage since it was missing.
+2024/12/11-11:21:15.640 4 Reusing MANIFEST /home/alan-omam/snap/chromium/common/chromium/Default/Session Storage/MANIFEST-000001
+2024/12/11-12:36:15.954 4 Level-0 table #5: started
+2024/12/11-12:36:15.962 4 Level-0 table #5: 24035 bytes OK
+2024/12/11-12:36:15.966 4 Delete type=0 #3

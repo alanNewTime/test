@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/alan-omam/Scaricati/code_1.95.3-1731513102_amd64.deb" added="2024-12-11T08:48:24.598913Z" modified="2024-12-11T09:06:45.289783Z" visited="2024-12-11T08:48:24.598915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_snap-store.desktop /snap/bin/snap-store %U&apos;" modified="2024-12-11T09:06:45.289774Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan-omam/Scaricati" added="2024-12-11T09:07:25.636815Z" modified="2024-12-11T09:07:25.649289Z" visited="2024-12-11T09:07:25.636816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-12-11T09:07:25.649285Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan-omam/Scaricati/google-chrome-stable_current_amd64.deb" added="2024-12-11T10:21:40.291188Z" modified="2024-12-11T10:21:40.291200Z" visited="2024-12-11T10:21:40.291190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_snap-store.desktop /snap/bin/snap-store %U&apos;" modified="2024-12-11T10:21:40.291195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://fileserver/ict/User%20Profiles/Alan%20Omam/Cruscotto%20%5BJenkins%5D.url" added="2024-12-11T10:41:14.983897Z" modified="2024-12-11T10:48:07.413152Z" visited="2024-12-11T10:41:14.983899Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-mswinurl"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-12-11T10:48:07.413144Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://fileserver/ict/User%20Profiles/Alan%20Omam/Geek%20Tips%20and%20Tricks.url" added="2024-12-11T10:41:22.540350Z" modified="2024-12-11T10:41:22.540359Z" visited="2024-12-11T10:41:22.540353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-mswinurl"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-12-11T10:41:22.540355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://fileserver/ict/User%20Profiles/Alan%20Omam/https---www.figma.com-files-team-1438458035150214937-all-projects-fuid=1402218836742257096.url" added="2024-12-11T10:43:12.346302Z" modified="2024-12-11T10:43:12.346330Z" visited="2024-12-11T10:43:12.346307Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-mswinurl"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-12-11T10:43:12.346315Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alan-omam/Scaricati/Obsidian-1.7.7.AppImage" added="2024-12-11T11:27:32.589133Z" modified="2024-12-11T11:27:50.246268Z" visited="2024-12-11T11:27:32.589135Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disks --restore-disk-image %U&apos;" modified="2024-12-11T11:27:50.246260Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

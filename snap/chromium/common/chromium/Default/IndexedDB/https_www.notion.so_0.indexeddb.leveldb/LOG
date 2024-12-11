@@ -1,0 +1,29 @@
+2024/12/11-11:46:09.216 1d9b Creating DB /home/alan-omam/snap/chromium/common/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2024/12/11-11:46:09.222 1d9b Reusing MANIFEST /home/alan-omam/snap/chromium/common/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/11-11:46:10.804 1d9b Level-0 table #5: started
+2024/12/11-11:46:10.806 1d9b Level-0 table #5: 2639 bytes OK
+2024/12/11-11:46:10.808 1d9b Delete type=0 #3
+2024/12/11-11:46:10.808 1d9b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/11-12:16:46.913 1d9b Level-0 table #7: started
+2024/12/11-12:16:46.916 1d9b Level-0 table #7: 3673 bytes OK
+2024/12/11-12:16:46.919 1d9b Delete type=0 #4
+2024/12/11-12:16:46.920 1d9b Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/11-12:39:26.555 1d9c Level-0 table #9: started
+2024/12/11-12:39:26.557 1d9c Level-0 table #9: 253 bytes OK
+2024/12/11-12:39:26.559 1d9c Delete type=0 #6
+2024/12/11-12:39:26.560 1d9c Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x9b\x12\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 480 : 0
+2024/12/11-12:39:26.560 1d9c Compacting 1@0 + 1@1 files
+2024/12/11-12:39:26.562 1d9c Generated table #10@0: 173 keys, 2154 bytes
+2024/12/11-12:39:26.562 1d9c Compacted 1@0 + 1@1 files => 2154 bytes
+2024/12/11-12:39:26.564 1d9c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/11-12:39:26.565 1d9c Delete type=2 #9
+2024/12/11-12:39:26.565 1d9c Delete type=2 #7
+2024/12/11-12:39:26.565 1d9c Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x9b\x12\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 480 : 0 .. (end); will stop at (end)
+2024/12/11-12:39:26.566 1d9c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x0f\x00p\x00e\x00n\x00d\x00i\x00n\x00g\x00C\x00a\x00p\x00t\x00u\x00r\x00e\x00s' @ 334 : 1
+2024/12/11-12:39:26.566 1d9c Compacting 1@1 + 1@2 files
+2024/12/11-12:39:26.568 1d9c Generated table #11@1: 131 keys, 1994 bytes
+2024/12/11-12:39:26.568 1d9c Compacted 1@1 + 1@2 files => 1994 bytes
+2024/12/11-12:39:26.570 1d9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/11-12:39:26.571 1d9c Delete type=2 #10
+2024/12/11-12:39:26.571 1d9c Delete type=2 #5
+2024/12/11-12:39:26.571 1d9c Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x0f\x00p\x00e\x00n\x00d\x00i\x00n\x00g\x00C\x00a\x00p\x00t\x00u\x00r\x00e\x00s' @ 334 : 1 .. (end); will stop at (end)

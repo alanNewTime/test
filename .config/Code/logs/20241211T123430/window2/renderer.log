@@ -1,0 +1,10 @@
+2024-12-11 12:34:32.271 [info] Started local extension host with pid 20304.
+2024-12-11 12:34:33.083 [info] Settings Sync: Updating due to initialize
+2024-12-11 12:34:33.083 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 12:34:33.083 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 12:34:35.006 [info] [perf] Render performance baseline is 42ms
+2024-12-11 12:37:40.027 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 12:37:40.028 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 12:38:10.350 [error] [network] #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-12-11 12:38:17.622 [error] [network] #11: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-12-11 12:38:47.313 [error] [network] #21: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled

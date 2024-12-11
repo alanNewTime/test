@@ -1,0 +1,108 @@
+{
+   "checksum": "459cd463c3e4da976aba20a2098e6c66",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13378386674856499",
+            "date_last_used": "13378395880834996",
+            "guid": "c8a49ad7-fb55-4959-916e-f83932c20ba8",
+            "id": "7",
+            "name": "https://github.com/alanNewTime",
+            "type": "url",
+            "url": "https://github.com/alanNewTime"
+         }, {
+            "date_added": "13378386838015623",
+            "date_last_used": "13378386840664308",
+            "guid": "47e17c60-2fdd-4411-9c67-1b8027aaf387",
+            "id": "9",
+            "name": "https://openproject.newtimegroup.it/",
+            "type": "url",
+            "url": "https://openproject.newtimegroup.it/"
+         }, {
+            "date_added": "13378386928917954",
+            "date_last_used": "13378388113382617",
+            "guid": "45c7e650-8133-488b-a040-1fe0168b0be8",
+            "id": "10",
+            "name": "https://mail.google.com/mail/u/0/#inbox",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13378387051146406",
+            "date_last_used": "13378389910802652",
+            "guid": "08a0db88-ea83-43e6-a054-2f934e8f4f50",
+            "id": "12",
+            "name": "https://www.google.com/search?q=install+docker+ubuntu+24.04+digitalocean&client=ubuntu-sn&hs=65N&sca_esv=636238c710bc0fc7&channel=fs&ei=22FZZ7SnBbTxi-gPpL23uAI&oq=install+docker+ubuntu+24.04+&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGluc3RhbGwgZG9ja2VyIHVidW50dSAyNC4wNCAqAggAMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMggQABgTGBYYHjIIEAAYExgWGB4yCBAAGBMYFhgeMggQABgTGBYYHjIKEAAYExgWGAoYHjIIEAAYExgWGB5IjA1QQFhAcAF4AJABAJgBcaABxwGqAQMxLjG4AQPIAQD4AQGYAgKgAm3CAg0QABiABBiwAxhDGIoFmAMAiAYBkAYKkgcBMqAH9Q4&sclient=gws-wiz-serp",
+            "type": "url",
+            "url": "https://www.google.com/search?q=install+docker+ubuntu+24.04+digitalocean&client=ubuntu-sn&hs=65N&sca_esv=636238c710bc0fc7&channel=fs&ei=22FZZ7SnBbTxi-gPpL23uAI&oq=install+docker+ubuntu+24.04+&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGluc3RhbGwgZG9ja2VyIHVidW50dSAyNC4wNCAqAggAMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMggQABgTGBYYHjIIEAAYExgWGB4yCBAAGBMYFhgeMggQABgTGBYYHjIKEAAYExgWGAoYHjIIEAAYExgWGB5IjA1QQFhAcAF4AJABAJgBcaABxwGqAQMxLjG4AQPIAQD4AQGYAgKgAm3CAg0QABiABBiwAxhDGIoFmAMAiAYBkAYKkgcBMqAH9Q4&sclient=gws-wiz-serp"
+         }, {
+            "date_added": "13378387383920093",
+            "date_last_used": "13378390536842919",
+            "guid": "4d686374-741c-4334-a3da-252ded257222",
+            "id": "14",
+            "name": "https://gttfc.blogspot.com/",
+            "type": "url",
+            "url": "https://gttfc.blogspot.com/"
+         }, {
+            "date_added": "13378387506353348",
+            "date_last_used": "13378389401120996",
+            "guid": "85f998e3-6fad-4794-a53e-a496096905d0",
+            "id": "15",
+            "name": "https://www.figma.com/files/team/1438458035150214937/all-projects?fuid=1402218836742257096",
+            "type": "url",
+            "url": "https://www.figma.com/files/team/1438458035150214937/all-projects?fuid=1402218836742257096"
+         }, {
+            "date_added": "13378387648213995",
+            "date_last_used": "13378389405775133",
+            "guid": "ed9b3023-bd60-4d91-8633-38d8c5a653df",
+            "id": "16",
+            "name": "https://www.notion.so/LAVORO-65add99351df4f0a93cf2ab9599db646",
+            "type": "url",
+            "url": "https://www.notion.so/LAVORO-65add99351df4f0a93cf2ab9599db646"
+         }, {
+            "date_added": "13378388291501577",
+            "date_last_used": "0",
+            "guid": "f68ef97c-e200-452a-bb6b-9e80aaa99c4a",
+            "id": "17",
+            "name": "https://jenkins.newtimegroup.it/",
+            "type": "url",
+            "url": "https://jenkins.newtimegroup.it/"
+         }, {
+            "date_added": "13378391460815419",
+            "date_last_used": "13378391491821088",
+            "guid": "14ccdf91-8f4e-4447-bc80-09db3518b112",
+            "id": "18",
+            "name": "https://www.youtube.com/",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13378386075071695",
+         "date_last_used": "0",
+         "date_modified": "13378391460815419",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra dei preferiti",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13378386075071700",
+         "date_last_used": "0",
+         "date_modified": "13378386552144267",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Altri preferiti",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13378386075071702",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Preferiti su disp. mobili",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

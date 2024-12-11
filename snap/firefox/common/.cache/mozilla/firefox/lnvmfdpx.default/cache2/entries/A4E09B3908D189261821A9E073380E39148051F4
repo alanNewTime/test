@@ -1,0 +1,342 @@
+(self.webpackChunkOpenProject=self.webpackChunkOpenProject||[]).push([["src_vendor_ckeditor_translations_it_js"],{46051:()=>{!function(e){const i=e.it=e.it||{};i.dictionary=Object.assign(i.dictionary||{},{"(may require <kbd>Fn</kbd>)":"(pu√≤ richiedere <kbd>Fn</kbd>)","%0 of %1":"%0 di %1",Accept:"Accetta",Accessibility:"Accessibilit√†","Accessibility help":"Guida all'accessibilit√†","Align cell text to the bottom":"Allinea il testo della cella in basso","Align cell text to the center":"Allinea il testo della cella al centro","Align cell text to the left":"Allinea il testo della cella a sinistra","Align cell text to the middle":"Allinea il testo della cella in mezzo","Align cell text to the right":"Allinea il testo della cella a destra","Align cell text to the top":"Allinea il testo della cella in alto","Align table to the left":"Allinea tabella a sinistra","Align table to the right":"Allinea tabella a destra",Alignment:"Allineamento",Aquamarine:"Aquamarina",Background:"Sfondo","Below, you can find a list of keyboard shortcuts that can be used in the editor.":"Qui sotto puoi trovare un elenco di scorciatoie da tastiera che possono essere utilizzate nell'editor.",Black:"Nero","Block quote":"Blocco citazione",Blue:"Blu",Bold:"Grassetto","Bold text":"Testo in grassetto",Border:"Bordo","Break text":"Interrompi testo","Bulleted List":"Elenco puntato","Bulleted list styles toolbar":"Barra degli strumenti con gli stili degli elenchi puntati",Cancel:"Annulla","Cannot upload file:":"Impossibile caricare il file:","Caption for image: %0":"Didascalia dell'immagine: %0","Caption for the image":"Didascalia dell'immagine","Cell properties":"Propriet√† cella","Center table":"Allinea tabella al centro","Centered image":"Immagine centrata","Change image text alternative":"Cambia testo alternativo dell'immagine","Choose heading":"Seleziona intestazione",Circle:"Cerchio",Clear:"Cancella","Click to edit block":"Clicca per modificare il blocco",Close:"Chiudi","Close contextual balloons, dropdowns, and dialogs":"Chiude menu a discesa, finestre di dialogo e callout contestuali",Code:"Codice",Color:"Colore","Color picker":"Selezione colore",Column:"Colonna","Content editing keystrokes":"Tasti per la modifica del contenuto","Copy selected content":"Copia il contenuto selezionato","Create link":"Crea un link",Custom:"Personalizzato","Custom image size":"Dimensioni immagine personalizzate",Dashed:"Tratteggiato",Decimal:"Numero","Decimal with leading zero":"Numero con zero anteposto","Decrease list item indent":"Diminuisce il rientro delle voci dell'elenco","Delete column":"Elimina colonna","Delete row":"Elimina riga","Dim grey":"Grigio tenue",Dimensions:"Dimensioni",Disc:"Disco",Dotted:"Punteggiato",Double:"Doppio",Downloadable:"Scaricabile","Drag to move":"Trascina per spostare","Dropdown toolbar":"Barra degli strumenti del menu a discesa","Edit block":"Modifica blocco","Edit link":"Modifica collegamento","Editor block content toolbar":"Barra degli strumenti contestuale dell'editor del blocco","Editor contextual toolbar":"Barra degli strumenti contestuale dell'editor","Editor dialog":"Finestra di dialogo dell'editor","Editor editing area: %0":"Area di modifica dell'editor: %0","Editor menu bar":"Barra dei menu dell'editor","Editor toolbar":"Barra degli strumenti dell'editor","Enter image caption":"inserire didascalia dell'immagine","Enter table caption":"Inserire la didascalia della tabella","Entering a to-do list":"Inserisci elenco di cose da fare","Error during image upload":"Errore durante il caricamento dell'immagine","Execute the currently focused button. Executing buttons that interact with the editor content moves the focus back to the content.":"Esegui il pulsante attualmente selezionato. L'esecuzione dei pulsanti che interagiscono con il contenuto dell'editor riporta la selezione sul contenuto.","From computer":"Dal computer","Full size image":"Immagine a dimensione intera",Green:"Verde",Grey:"Grigio",Groove:"Scanalatura","Header column":"Intestazione colonna","Header row":"Riga d'intestazione",Heading:"Intestazione","Heading 1":"Intestazione 1","Heading 2":"Intestazione 2","Heading 3":"Intestazione 3","Heading 4":"Intestazione 4","Heading 5":"Intestazione 5","Heading 6":"Intestazione 6",Height:"Altezza","Help Contents. To close this dialog press ESC.":"Sommario della guida. Per chiudere questa finestra di dialogo premi ESC.",HEX:"HEX","Horizontal text alignment toolbar":"Barra degli strumenti dell'allineamento orizzontale del testo",Image:"Immagine","Image from computer":"Immagine dal computer","Image resize list":"Elenco ridimensionamenti immagine","Image toolbar":"Barra degli strumenti dell'immagine","Image upload complete":"Caricamento immagine completato","Image via URL":"Immagine tramite URL","image widget":"Widget immagine","In line":"In linea","Increase list item indent":"Aumenta il rientro delle voci dell'elenco","Insert a hard break (a new paragraph)":"Inserisce un'interruzione di riga forzata (un nuovo paragrafo)","Insert a new paragraph directly after a widget":"Inserisce un nuovo paragrafo direttamente dopo un widget","Insert a new paragraph directly before a widget":"Inserisce un nuovo paragrafo direttamente prima di un widget","Insert a new table row (when in the last cell of a table)":"Inserisce una nuova riga nella tabella (quando ci si trova nell'ultima cella di una tabella)","Insert a soft break (a <code>&lt;br&gt;</code> element)":"Inserisce un'interruzione di riga (un elemento <code>&lt;br&gt;</code>)","Insert column left":"Inserisci colonna a sinistra","Insert column right":"Inserisci colonna a destra","Insert image":"Inserisci immagine","Insert image via URL":"Inserisci immagine tramite URL","Insert paragraph after block":"Inserisci paragrafo dopo blocco","Insert paragraph before block":"Inserisci paragrafo prima di blocco","Insert row above":"Inserisci riga sopra","Insert row below":"Inserisci riga sotto","Insert table":"Inserisci tabella","Insert via URL":"Inserisci tramite URL",Inset:"Incassato","Invalid start index value.":"Valore dell'indice iniziale non valido.",Italic:"Corsivo","Italic text":"Testo in corsivo","Justify cell text":"Testo della cella giustificato","Keystrokes that can be used in a list":"Tasti che possono essere utilizzati in un elenco","Keystrokes that can be used in a table cell":"Tasti che possono essere utilizzati nella cella di una tabella","Keystrokes that can be used when a widget is selected (for example: image, table, etc.)":"Tasti che possono essere utilizzati quando viene selezionato un widget (ad esempio: immagine, tabella ecc.)","Leaving a to-do list":"Esci da elenco di cose da fare","Left aligned image":"Immagine allineata a sinistra","Light blue":"Azzurro","Light green":"Verde chiaro","Light grey":"Grigio chiaro",Link:"Collegamento","Link image":"Collega immagine","Link URL":"URL del collegamento","Link URL must not be empty.":"L'URL del link non pu√≤ essere lasciato in bianco.","List properties":"Propriet√† elenco","Lower-latin":"Lettera minuscola","Lower‚Äìroman":"Numero romano minuscolo",MENU_BAR_MENU_EDIT:"Modifica",MENU_BAR_MENU_FILE:"File",MENU_BAR_MENU_FONT:"Carattere",MENU_BAR_MENU_FORMAT:"Formato",MENU_BAR_MENU_HELP:"Aiuto",MENU_BAR_MENU_INSERT:"Inserisci",MENU_BAR_MENU_TEXT:"Testo",MENU_BAR_MENU_TOOLS:"Strumenti",MENU_BAR_MENU_VIEW:"Vista","Merge cell down":"Unisci cella sotto","Merge cell left":"Unisci cella a sinistra","Merge cell right":"Unisci cella a destra","Merge cell up":"Unisci cella sopra","Merge cells":"Unisci celle","Move focus between form fields (inputs, buttons, etc.)":"Seleziona/deseleziona i diversi campi del modulo (inserimenti, pulsanti ecc.)","Move focus from an editable area back to the parent widget":"Sposta lo stato attivo da un'area modificabile al widget principale","Move focus in and out of an active dialog window":"Seleziona/deseleziona una finestra di dialogo attiva","Move focus to the menu bar, navigate between menu bars":"Sposta la selezione sulla barra dei menu, naviga tra le barre dei menu","Move focus to the toolbar, navigate between toolbars":"Seleziona la barra degli strumenti, permette di spostarsi tra le barre degli strumenti","Move out of a link":"Esce da un link","Move out of an inline code style":"Esce da uno stile di codice in linea","Move the caret to allow typing directly after a widget":"Sposta il cursore per consentire la digitazione direttamente dopo un widget","Move the caret to allow typing directly before a widget":"Sposta il cursore per consentire la digitazione direttamente prima di un widget","Move the selection to the next cell":"Sposta la selezione alla cella successiva","Move the selection to the previous cell":"Sposta la selezione alla cella precedente","Navigate through the table":"Permette di spostarsi all'interno della tabella","Navigate through the toolbar or menu bar":"Naviga nella barra degli strumenti o nella barra dei menu",Next:"Avanti","No results found":"Nessun risultato trovato","No searchable items":"Nessun elemento ricercabile",None:"Nessuno","Numbered List":"Elenco numerato","Numbered list styles toolbar":"Barra degli strumenti con gli stili degli elenchi numerati","Open in a new tab":"Apri in una nuova scheda","Open link in new tab":"Apri collegamento in nuova scheda","Open the accessibility help dialog":"Apre la finestra di dialogo della guida all'accessibilit√†",Orange:"Arancio",Original:"Originale",Outset:"Rialzato",Padding:"Spaziatura interna",Paragraph:"Paragrafo","Paste content":"Incolla il contenuto","Paste content as plain text":"Incolla il contenuto come testo normale",'Please enter a valid color (e.g. "ff0000").':'Inserisci un colore valido (ad esempio "ff0000").',"Press %0 for help.":"Premi %0 per aprire la guida.","Press Enter to type after or press Shift + Enter to type before the widget":"Premere Invio per inserire dopo il widget o premere Maiusc + Invio per inserire prima del widget",Previous:"Indietro",Purple:"Porpora",Red:"Rosso",Redo:"Ripristina","Remove color":"Rimuovi colore","Replace from computer":"Sostituisci dal computer","Replace image":"Sostituisci l'immagine","Replace image from computer":"Sostituisci l'immagine dal computer","Resize image":"Ridimensiona immagine","Resize image (in %0)":"Ridimensiona immagine (in %0 )","Resize image to %0":"Ridimensiona immagine a %0","Resize image to the original size":"Ridimensiona immagine alle dimensioni originali","Restore default":"Ripristina predefinito","Reversed order":"Ordine inverso","Revert autoformatting action":"Annulla l'azione di formattazione automatica","Rich Text Editor":"Editor di testo formattato","Rich Text Editor. Editing area: %0":"Editor Rich Text. Area di modifica: %0",Ridge:"Rilievo","Right aligned image":"Immagine allineata a destra",Row:"Riga",Save:"Salva","Saving changes":"Salvataggio modifiche","Select all":"Seleziona tutto","Select column":"Seleziona colonna","Select row":"Seleziona riga","Show more items":"Mostra pi√π elementi","Side image":"Immagine laterale",Solid:"Solido","Split cell horizontally":"Dividi cella orizzontalmente","Split cell vertically":"Dividi cella verticalmente",Square:"Quadrato","Start at":"Inizia da","Start index must be greater than 0.":"L'indice iniziale deve essere maggiore di 0.",Strikethrough:"Barrato","Strikethrough text":"Testo barrato",Style:"Stile",Subscript:"Pedice",Superscript:"Apice",Table:"Tabella","Table alignment toolbar":"Barra degli strumenti dell'allineamento della tabella","Table cell text alignment":"Allineamento del testo nella cella della tabella","Table properties":"Propriet√† tabella","Table toolbar":"Barra degli strumenti della tabella","Text alternative":"Testo alternativo",'The color is invalid. Try "#FF0000" or "rgb(255,0,0)" or "red".':'Il colore non √® valido. Provare "#FF0000" o "rgb(255,0,0)" o "red".','The value is invalid. Try "10px" or "2em" or simply "2".':'Il valore non √® valido. Provare "10px" o "2em" o semplicemente "2".',"The value must not be empty.":"Il valore non pu√≤ essere essere lasciato in bianco.","The value should be a plain number.":"Il valore deve essere un numero intero.","These keyboard shortcuts allow for quick access to content editing features.":"Queste scorciatoie da tastiera permettono di accedere velocemente alle funzionalit√† di modifica del contenuto.","This link has no URL":"Questo collegamento non ha un URL","To-do List":"Elenco cose da fare","Toggle caption off":"Disattiva didascalia","Toggle caption on":"Attiva didascalia","Toggle the circle list style":"Attiva/disattiva lo stile degli elenchi con cerchi","Toggle the decimal list style":"Attiva/disattiva lo stile degli elenchi con numeri","Toggle the decimal with leading zero list style":"Attiva/disattiva lo stile degli elenchi con numeri con zero anteposto","Toggle the disc list style":"Attiva/disattiva lo stile degli elenchi con dischi","Toggle the lower‚Äìlatin list style":"Attiva/disattiva lo stile degli elenchi con lettere minuscole","Toggle the lower‚Äìroman list style":"Attiva/disattiva lo stile degli elenchi con numeri romani minuscoli","Toggle the square list style":"Attiva/disattiva lo stile degli elenchi con quadrati","Toggle the upper‚Äìlatin list style":"Attiva/disattiva lo stile degli elenchi con lettere maiuscole","Toggle the upper‚Äìroman list style":"Attiva/disattiva lo stile degli elenchi con numeri romani maiuscoli",Turquoise:"Turchese","Type or paste your content here.":"Inserire o incollare qui il proprio contenuto.","Type your title":"Inserire il proprio titolo",Underline:"Sottolineato","Underline text":"Testo sottolineato",Undo:"Annulla",Unlink:"Elimina collegamento","Update image URL":"Aggiorna URL immagine","Upload failed":"Caricamento fallito","Upload from computer":"Carica dal computer","Upload image from computer":"Carica l'immagine dal computer","Upload in progress":"Caricamento in corso","Uploading image":"Caricamento immagine in corso","Upper-latin":"Lettera maiuscola","Upper-roman":"Numero romano maiuscolo","Use the following keystrokes for more efficient navigation in the CKEditor 5 user interface.":"Utilizza i seguenti tasti per una navigazione pi√π efficiente nell'interfaccia utente di CKEditor 5.","User interface and content navigation keystrokes":"Tasti per la navigazione nell'interfaccia utente e nei contenuti","Vertical text alignment toolbar":"Barra degli strumenti dell'allineamento verticale del testo","Via URL":"Tramite URL",White:"Bianco","Widget toolbar":"Barra degli strumenti del widget",Width:"Larghezza","Wrap text":"Testo a capo",Yellow:"Giallo","You have no image upload permissions.":"Non disponi di autorizzazione per il caricamento di immagini."}),i.getPluralForm=function(e){return 1==e?0:0!=e&&e%1e6==0?1:2}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}))}}]);
+//# sourceMappingURL=src_vendor_ckeditor_translations_it_js.35338d5a6c25c638.js.map         Ø  x ØˇP   20240819223648-8l„Æ  •Â=n   https://openproject.newtimegroup.it/assets/frontend/src_vendor_ckeditor_translations_it_js.35338d5a6c25c638.js>   s r c _ v e n d o r _ c k e d i t o r _ t r a n s l a t i o n s _ i t _ j s . 3 5 3 3 8 d 5 a 6 c 2 5 c 6 3 8 . j s . m a p       ˛9  (self.webpackChunkOpenProject=self.webpackChunkOpenProject||[]).push([["src_vendor_ckeditor_translations_it_js"],{46051:()=>{!function(e){const i=e.it=e.it||{};i.dictionary=Object.assign(i.dictionary||{},{"(may require <kbd>Fn</kbd>)":"(pu√≤ richiedere <kbd>Fn</kbd>)","%0 of %1":"%0 di %1",Accept:"Accetta",Accessibility:"Accessibilit√†","Accessibility help":"Guida all'accessibilit√†","Align cell text to the bottom":"Allinea il testo della cella in basso","Align cell text to the center":"Allinea il testo della cella al centro","Align cell text to the left":"Allinea il testo della cella a sinistra","Align cell text to the middle":"Allinea il testo della cella in mezzo","Align cell text to the right":"Allinea il testo della cella a destra","Align cell text to the top":"Allinea il testo della cella in alto","Align table to the left":"Allinea tabella a sinistra","Align table to the right":"Allinea tabella a destra",Alignment:"Allineamento",Aquamarine:"Aquamarina",Background:"Sfondo","Below, you can find a list of keyboard shortcuts that can be used in the editor.":"Qui sotto puoi trovare un elenco di scorciatoie da tastiera che possono essere utilizzate nell'editor.",Black:"Nero","Block quote":"Blocco citazione",Blue:"Blu",Bold:"Grassetto","Bold text":"Testo in grassetto",Border:"Bordo","Break text":"Interrompi testo","Bulleted List":"Elenco puntato","Bulleted list styles toolbar":"Barra degli strumenti con gli stili degli elenchi puntati",Cancel:"Annulla","Cannot upload file:":"Impossibile caricare il file:","Caption for image: %0":"Didascalia dell'immagine: %0","Caption for the image":"Didascalia dell'immagine","Cell properties":"Propriet√† cella","Center table":"Allinea tabella al centro","Centered image":"Immagine centrata","Change image text alternative":"Cambia testo alternativo dell'immagine","Choose heading":"Seleziona intestazione",Circle:"Cerchio",Clear:"Cancella","Click to edit block":"Clicca per modificare il blocco",Close:"Chiudi","Close contextual balloons, dropdowns, and dialogs":"Chiude menu a discesa, finestre di dialogo e callout contestuali",Code:"Codice",Color:"Colore","Color picker":"Selezione colore",Column:"Colonna","Content editing keystrokes":"Tasti per la modifica del contenuto","Copy selected content":"Copia il contenuto selezionato","Create link":"Crea un link",Custom:"Personalizzato","Custom image size":"Dimensioni immagine personalizzate",Dashed:"Tratteggiato",Decimal:"Numero","Decimal with leading zero":"Numero con zero anteposto","Decrease list item indent":"Diminuisce il rientro delle voci dell'elenco","Delete column":"Elimina colonna","Delete row":"Elimina riga","Dim grey":"Grigio tenue",Dimensions:"Dimensioni",Disc:"Disco",Dotted:"Punteggiato",Double:"Doppio",Downloadable:"Scaricabile","Drag to move":"Trascina per spostare","Dropdown toolbar":"Barra degli strumenti del menu a discesa","Edit block":"Modifica blocco","Edit link":"Modifica collegamento","Editor block content toolbar":"Barra degli strumenti contestuale dell'editor del blocco","Editor contextual toolbar":"Barra degli strumenti contestuale dell'editor","Editor dialog":"Finestra di dialogo dell'editor","Editor editing area: %0":"Area di modifica dell'editor: %0","Editor menu bar":"Barra dei menu dell'editor","Editor toolbar":"Barra degli strumenti dell'editor","Enter image caption":"inserire didascalia dell'immagine","Enter table caption":"Inserire la didascalia della tabella","Entering a to-do list":"Inserisci elenco di cose da fare","Error during image upload":"Errore durante il caricamento dell'immagine","Execute the currently focused button. Executing buttons that interact with the editor content moves the focus back to the content.":"Esegui il pulsante attualmente selezionato. L'esecuzione dei pulsanti che interagiscono con il contenuto dell'editor riporta la selezione sul contenuto.","From computer":"Dal computer","Full size image":"Immagine a dimensione intera",Green:"Verde",Grey:"Grigio",Groove:"Scanalatura","Header column":"Intestazione colonna","Header row":"Riga d'intestazione",Heading:"Intestazione","Heading 1":"Intestazione 1","Heading 2":"Intestazione 2","Heading 3":"Intestazione 3","Heading 4":"Intestazione 4","Heading 5":"Intestazione 5","Heading 6":"Intestazione 6",Height:"Altezza","Help Contents. To close this dialog press ESC.":"Sommario della guida. Per chiudere questa finestra di dialogo premi ESC.",HEX:"HEX","Horizontal text alignment toolbar":"Barra degli strumenti dell'allineamento orizzontale del testo",Image:"Immagine","Image from computer":"Immagine dal computer","Image resize list":"Elenco ridimensionamenti immagine","Image toolbar":"Barra degli strumenti dell'immagine","Image upload complete":"Caricamento immagine completato","Image via URL":"Immagine tramite URL","image widget":"Widget immagine","In line":"In linea","Increase list item indent":"Aumenta il rientro delle voci dell'elenco","Insert a hard break (a new paragraph)":"Inserisce un'interruzione di riga forzata (un nuovo paragrafo)","Insert a new paragraph directly after a widget":"Inserisce un nuovo paragrafo direttamente dopo un widget","Insert a new paragraph directly before a widget":"Inserisce un nuovo paragrafo direttamente prima di un widget","Insert a new table row (when in the last cell of a table)":"Inserisce una nuova riga nella tabella (quando ci si trova nell'ultima cella di una tabella)","Insert a soft break (a <code>&lt;br&gt;</code> element)":"Inserisce un'interruzione di riga (un elemento <code>&lt;br&gt;</code>)","Insert column left":"Inserisci colonna a sinistra","Insert column right":"Inserisci colonna a destra","Insert image":"Inserisci immagine","Insert image via URL":"Inserisci immagine tramite URL","Insert paragraph after block":"Inserisci paragrafo dopo blocco","Insert paragraph before block":"Inserisci paragrafo prima di blocco","Insert row above":"Inserisci riga sopra","Insert row below":"Inserisci riga sotto","Insert table":"Inserisci tabella","Insert via URL":"Inserisci tramite URL",Inset:"Incassato","Invalid start index value.":"Valore dell'indice iniziale non valido.",Italic:"Corsivo","Italic text":"Testo in corsivo","Justify cell text":"Testo della cella giustificato","Keystrokes that can be used in a list":"Tasti che possono essere utilizzati in un elenco","Keystrokes that can be used in a table cell":"Tasti che possono essere utilizzati nella cella di una tabella","Keystrokes that can be used when a widget is selected (for example: image, table, etc.)":"Tasti che possono essere utilizzati quando viene selezionato un widget (ad esempio: immagine, tabella ecc.)","Leaving a to-do list":"Esci da elenco di cose da fare","Left aligned image":"Immagine allineata a sinistra","Light blue":"Azzurro","Light green":"Verde chiaro","Light grey":"Grigio chiaro",Link:"Collegamento","Link image":"Collega immagine","Link URL":"URL del collegamento","Link URL must not be empty.":"L'URL del link non pu√≤ essere lasciato in bianco.","List properties":"Propriet√† elenco","Lower-latin":"Lettera minuscola","Lower‚Äìroman":"Numero romano minuscolo",MENU_BAR_MENU_EDIT:"Modifica",MENU_BAR_MENU_FILE:"File",MENU_BAR_MENU_FONT:"Carattere",MENU_BAR_MENU_FORMAT:"Formato",MENU_BAR_MENU_HELP:"Aiuto",MENU_BAR_MENU_INSERT:"Inserisci",MENU_BAR_MENU_TEXT:"Testo",MENU_BAR_MENU_TOOLS:"Strumenti",MENU_BAR_MENU_VIEW:"Vista","Merge cell down":"Unisci cella sotto","Merge cell left":"Unisci cella a sinistra","Merge cell right":"Unisci cella a destra","Merge cell up":"Unisci cella sopra","Merge cells":"Unisci celle","Move focus between form fields (inputs, buttons, etc.)":"Seleziona/deseleziona i diversi campi del modulo (inserimenti, pulsanti ecc.)","Move focus from an editable area back to the parent widget":"Sposta lo stato attivo da un'area modificabile al widget principale","Move focus in and out of an active dialog window":"Seleziona/deseleziona una finestra di dialogo attiva","Move focus to the menu bar, navigate between menu bars":"Sposta la selezione sulla barra dei menu, naviga tra le barre dei menu","Move focus to the toolbar, navigate between toolbars":"Seleziona la barra degli strumenti, permette di spostarsi tra le barre degli strumenti","Move out of a link":"Esce da un link","Move out of an inline code style":"Esce da uno stile di codice in linea","Move the caret to allow typing directly after a widget":"Sposta il cursore per consentire la digitazione direttamente dopo un widget","Move the caret to allow typing directly before a widget":"Sposta il cursore per consentire la digitazione direttamente prima di un widget","Move the selection to the next cell":"Sposta la selezione alla cella successiva","Move the selection to the previous cell":"Sposta la selezione alla cella precedente","Navigate through the table":"Permette di spostarsi all'interno della tabella","Navigate through the toolbar or menu bar":"Naviga nella barra degli strumenti o nella barra dei menu",Next:"Avanti","No results found":"Nessun risultato trovato","No searchable items":"Nessun elemento ricercabile",None:"Nessuno","Numbered List":"Elenco numerato","Numbered list styles toolbar":"Barra degli strumenti con gli stili degli elenchi numerati","Open in a new tab":"Apri in una nuova scheda","Open link in new tab":"Apri collegamento in nuova scheda","Open the accessibility help dialog":"Apre la finestra di dialogo della guida all'accessibilit√†",Orange:"Arancio",Original:"Originale",Outset:"Rialzato",Padding:"Spaziatura interna",Paragraph:"Paragrafo","Paste content":"Incolla il contenuto","Paste content as plain text":"Incolla il contenuto come testo normale",'Please enter a valid color (e.g. "ff0000").':'Inserisci un colore valido (ad esempio "ff0000").',"Press %0 for help.":"Premi %0 per aprire la guida.","Press Enter to type after or press Shift + Enter to type before the widget":"Premere Invio per inserire dopo il widget o premere Maiusc + Invio per inserire prima del widget",Previous:"Indietro",Purple:"Porpora",Red:"Rosso",Redo:"Ripristina","Remove color":"Rimuovi colore","Replace from computer":"Sostituisci dal computer","Replace image":"Sostituisci l'immagine","Replace image from computer":"Sostituisci l'immagine dal computer","Resize image":"Ridimensiona immagine","Resize image (in %0)":"Ridimensiona immagine (in %0 )","Resize image to %0":"Ridimensiona immagine a %0","Resize image to the original size":"Ridimensiona immagine alle dimensioni originali","Restore default":"Ripristina predefinito","Reversed order":"Ordine inverso","Revert autoformatting action":"Annulla l'azione di formattazione automatica","Rich Text Editor":"Editor di testo formattato","Rich Text Editor. Editing area: %0":"Editor Rich Text. Area di modifica: %0",Ridge:"Rilievo","Right aligned image":"Immagine allineata a destra",Row:"Riga",Save:"Salva","Saving changes":"Salvataggio modifiche","Select all":"Seleziona tutto","Select column":"Seleziona colonna","Select row":"Seleziona riga","Show more items":"Mostra pi√π elementi","Side image":"Immagine laterale",Solid:"Solido","Split cell horizontally":"Dividi cella orizzontalmente","Split cell vertically":"Dividi cella verticalmente",Square:"Quadrato","Start at":"Inizia da","Start index must be greater than 0.":"L'indice iniziale deve essere maggiore di 0.",Strikethrough:"Barrato","Strikethrough text":"Testo barrato",Style:"Stile",Subscript:"Pedice",Superscript:"Apice",Table:"Tabella","Table alignment toolbar":"Barra degli strumenti dell'allineamento della tabella","Table cell text alignment":"Allineamento del testo nella cella della tabella","Table properties":"Propriet√† tabella","Table toolbar":"Barra degli strumenti della tabella","Text alternative":"Testo alternativo",'The color is invalid. Try "#FF0000" or "rgb(255,0,0)" or "red".':'Il colore non √® valido. Provare "#FF0000" o "rgb(255,0,0)" o "red".','The value is invalid. Try "10px" or "2em" or simply "2".':'Il valore non √® valido. Provare "10px" o "2em" o semplicemente "2".',"The value must not be empty.":"Il valore non pu√≤ essere essere lasciato in bianco.","The value should be a plain number.":"Il valore deve essere un numero intero.","These keyboard shortcuts allow for quick access to content editing features.":"Queste scorciatoie da tastiera permettono di accedere velocemente alle funzionalit√† di modifica del contenuto.","This link has no URL":"Questo collegamento non ha un URL","To-do List":"Elenco cose da fare","Toggle caption off":"Disattiva didascalia","Toggle caption on":"Attiva didascalia","Toggle the circle list style":"Attiva/disattiva lo stile degli elenchi con cerchi","Toggle the decimal list style":"Attiva/disattiva lo stile degli elenchi con numeri","Toggle the decimal with leading zero list style":"Attiva/disattiva lo stile degli elenchi con numeri con zero anteposto","Toggle the disc list style":"Attiva/disattiva lo stile degli elenchi con dischi","Toggle the lower‚Äìlatin list style":"Attiva/disattiva lo stile degli elenchi con lettere minuscole","Toggle the lower‚Äìroman list style":"Attiva/disattiva lo stile degli elenchi con numeri romani minuscoli","Toggle the square list style":"Attiva/disattiva lo stile degli elenchi con quadrati","Toggle the upper‚Äìlatin list style":"Attiva/disattiva lo stile degli elenchi con lettere maiuscole","Toggle the upper‚Äìroman list style":"Attiva/disattiva lo stile degli elenchi con numeri romani maiuscoli",Turquoise:"Turchese","Type or paste your content here.":"Inserire o incollare qui il proprio contenuto.","Type your title":"Inserire il proprio titolo",Underline:"Sottolineato","Underline text":"Testo sottolineato",Undo:"Annulla",Unlink:"Elimina collegamento","Update image URL":"Aggiorna URL immagine","Upload failed":"Caricamento fallito","Upload from computer":"Carica dal computer","Upload image from computer":"Carica l'immagine dal computer","Upload in progress":"Caricamento in corso","Uploading image":"Caricamento immagine in corso","Upper-latin":"Lettera maiuscola","Upper-roman":"Numero romano maiuscolo","Use the following keystrokes for more efficient navigation in the CKEditor 5 user interface.":"Utilizza i seguenti tasti per una navigazione pi√π efficiente nell'interfaccia utente di CKEditor 5.","User interface and content navigation keystrokes":"Tasti per la navigazione nell'interfaccia utente e nei contenuti","Vertical text alignment toolbar":"Barra degli strumenti dell'allineamento verticale del testo","Via URL":"Tramite URL",White:"Bianco","Widget toolbar":"Barra degli strumenti del widget",Width:"Larghezza","Wrap text":"Testo a capo",Yellow:"Giallo","You have no image upload permissions.":"Non disponi di autorizzazione per il caricamento di immagini."}),i.getPluralForm=function(e){return 1==e?0:0!=e&&e%1e6==0?1:2}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}))}}]);
+//# sourceMappingURL=src_vendor_ckeditor_translations_it_js.35338d5a6c25c638.js.map”ò¿Ÿ(  (       ¡§\l      self   ãg&´      webpackChunkOpenProject    Ñu2      push   ¡^lÃ&      src_vendor_ckeditor_translations_it_js     y}      46051      ‚ïà
+      dictionary     ïn.      assign     +rÀ,      (may require <kbd>Fn</kbd>)    V‘–Ú      (puÚ richiedere <kbd>Fn</kbd>)	     >”Ç      %0 of %1
+   ô≈H(      %0 di %1   fMW      Accept     ´b^      Accetta    áµ(      Accessibility      ˆ—      Accessibilit‡      —&¡      Accessibility help     «      Guida all'accessibilit‡    i[n      Align cell text to the bottom      if?≈%      Allinea il testo della cella in basso      ÊT      Align cell text to the center      J–&      Allinea il testo della cella al centro     ˜»dù      Align cell text to the left    9±€Ä'      Allinea il testo della cella a sinistra    13_      Align cell text to the middle      è⁄qß%      Allinea il testo della cella in mezzo      .°¿      Align cell text to the right   dªé%      Allinea il testo della cella a destra      d]œ|      Align cell text to the top     ÏAG\$      Allinea il testo della cella in alto   ¯HÚg      Align table to the left    D*5      Allinea tabella a sinistra     8(      Align table to the right    x|ù      Allinea tabella a destra!   ã	      Alignment"      ‹<      Allineamento#   :KB(
+      Aquamarine$     2 °
+      Aquamarina%     *è¸“
+      Background&     ïjî3      Sfondo'      æΩÖP      Below, you can find a list of keyboard shortcuts that can be used in the editor.(   LuZf      Qui sotto puoi trovare un elenco di scorciatoie da tastiera che possono essere utilizzate nell'editor.)     bY±•      Black*      ;Ôgá      Nero+   “|∑¢      Block quote,    ”¥Ê      Blocco citazione-   Íz∏|      Blue.   ˙¨Ûˇ      Blu/    Áπ·Ù      Bold0   z8õ…	      Grassetto1      âÜåZ	      Bold text2      2p40      Testo in grassetto3     6!•&      Border4     yÈÍ      Bordo5      H)àe
+      Break text6     ÷ŸR      Interrompi testo7   Xaá|      Bulleted List8      a≥Ωh      Elenco puntato9     ”›w”      Bulleted list styles toolbar:   $∆⁄9      Barra degli strumenti con gli stili degli elenchi puntati;      &Ùê⁄      Cancel<     É(N5      Annulla=    *1»Ê      Cannot upload file:>    kl¸=      Impossibile caricare il file:?      ë61€      Caption for image: %0@      æNÈs      Didascalia dell'immagine: %0A   8$»U      Caption for the imageB      Ëä2E      Didascalia dell'immagineC   `Ã]ß      Cell propertiesD    ‚ÉO€      Propriet‡ cellaE    ^ç∞è      Center tableF   JKÜÒ      Allinea tabella al centroG      N⁄;ß      Centered imageH     ÏË™—      Immagine centrataI      vÔ7      Change image text alternativeJ      ‹Øx’&      Cambia testo alternativo dell'immagineK     ë3ã&      Choose headingL     ∏ñ`≥      Seleziona intestazioneM     Ù™¥ç      CircleN     æ“íõ      CerchioO    Áªﬂ      ClearP      ÷•´6      CancellaQ   Rfº|      Click to edit blockR    €gdî      Clicca per modificare il bloccoS    ï&      CloseT      Zf˝      ChiudiU     e‡≈¶1      Close contextual balloons, dropdowns, and dialogsV      ∑X@      Chiude menu a discesa, finestre di dialogo e callout contestualiW   59!      CodeX   Œñ“]      CodiceY     ÉˆT´      ColorZ      êÎã∞      Colore[     aƒÓª      Color picker\   Å±HÙ      Selezione colore]   µ¯É      Column^     5
+µ      Colonna_    eÌ{Q      Content editing keystrokes`     c¢Æh#      Tasti per la modifica del contenutoa    ‡Ö‡º      Copy selected contentb      k8
+B      Copia il contenuto selezionatoc     ~Ôtè      Create linkd    3‰Zi      Crea un linke   zÑÈÕ      Customf     'È&…      Personalizzatog     ~—mÃ      Custom image sizeh      `øÄd"      Dimensioni immagine personalizzatei     Ä;'      Dashedj     ˙û’      Tratteggiatok   LYΩΩ      Decimall    ceßg      Numerom     ∂ı›Í      Decimal with leading zeron      zx…4      Numero con zero antepostoo      ºÀõí      Decrease list item indentp      6:∏ª,      Diminuisce il rientro delle voci dell'elencoq   ‘Î„œ      Delete columnr      πè•€      Elimina colonnas    &î .
+      Delete rowt     …“dô      Elimina rigau   Î∏”’      Dim greyv   ˜Ò3“      Grigio tenuew   í~∆6
+      Dimensionsx     xÙäœ
+      Dimensioniy     ê‡Ài      Discz   “ögû      Disco{      ∂–      Dotted|     2ﬂâ˘      Punteggiato}    	n       Double~     îÜG◊      Doppio     ÌÕìØ      DownloadableÄ   ∆Ötï      ScaricabileÅ    º•Å7      Drag to moveÇ   ‹V^∂      Trascina per spostareÉ      ™WŒ      Dropdown toolbarÑ   !PRÁ(      Barra degli strumenti del menu a discesaÖ   =¢vÖ
+      Edit blockÜ     ˆ>◊      Modifica bloccoá    öó™	      Edit linkà      !:
+M      Modifica collegamentoâ      ±f‡‹      Editor block content toolbarä   cóÏ8      Barra degli strumenti contestuale dell'editor del bloccoã   ˛ÿµ~      Editor contextual toolbarå      ¸ÀˆB-      Barra degli strumenti contestuale dell'editorç      ∞©&N      Editor dialogé      b—È?      Finestra di dialogo dell'editorè    ÄDÇu      Editor editing area: %0ê    ø‹Qî       Area di modifica dell'editor: %0ë   f˜Ω      Editor menu barí    ˛úl      Barra dei menu dell'editorì     ü[       Editor toolbarî     Å G!      Barra degli strumenti dell'editorï      }A°      Enter image captionñ    §Zæo!      inserire didascalia dell'immagineó      ◊{C      Enter table captionò    ≥Í3‘$      Inserire la didascalia della tabellaô   ª7v      Entering a to-do listö      Ì2è       Inserisci elenco di cose da fareõ   	úÓ_      Error during image uploadú      ,4
+Œ+      Errore durante il caricamento dell'immagineù    ï
+ÒÇ      Execute the currently focused button. Executing buttons that interact with the editor content moves the focus back to the content.û     ◊[é˝ò      Esegui il pulsante attualmente selezionato. L'esecuzione dei pulsanti che interagiscono con il contenuto dell'editor riporta la selezione sul contenuto.ü   Ä¿Z      From computer†      ›yê      Dal computer°   Q^∂Ù      Full size image¢    -¬µ\      Immagine a dimensione intera£   ÔËO	      Green§      Í6v      Verde•       È‹˝      Grey¶   D	r/      Grigioß     Çe˛      Groove®     …II       Scanalatura©    aø@ë      Header column™      $çB–      Intestazione colonna´   WÄ
+      Header row¨     cÍ¡Ç      Riga d'intestazione≠    †NÔz      HeadingÆ    nf3      IntestazioneØ   ﬁ ≠		      Heading 1∞      ˛üÿã      Intestazione 1±     %ßuk	      Heading 2≤      E&°Ì      Intestazione 2≥     l->Õ	      Heading 3¥      å¨iO      Intestazione 3µ     ≥≥/	      Heading 4∂      ”22±      Intestazione 4∑     ˙9œê	      Heading 5∏      π˙      Intestazione 5π     A¿óÚ	      Heading 6∫      a?√t      Intestazione 6ª     a5¸`      Heightº     ﬁ-¨=      AltezzaΩ    7ìCﬂ.      Help Contents. To close this dialog press ESC.æ     |f¨˚H      Sommario della guida. Per chiudere questa finestra di dialogo premi ESC.ø   ∫±˘      HEX¿    ö™@'!      Horizontal text alignment toolbar¡      #l’W=      Barra degli strumenti dell'allineamento orizzontale del testo¬      û“      Image√      ò˚Êi      Immagineƒ   ™äßÎ      Image from computer≈    Å?≠      Immagine dal computer∆      JèÕ      Image resize list«      ËãH≠!      Elenco ridimensionamenti immagine»      ôÅ…      Image toolbar…      [Ä∆©#      Barra degli strumenti dell'immagine     ?s°      Image upload completeÀ      ¸ô˙      Caricamento immagine completatoÃ    xhñ_      Image via URLÕ      :7/      Immagine tramite URLŒ   ¿≤ˇõ      image widgetœ   ÊÒ>`      Widget immagine–    /Æ6a      In line—    Âg&í      In linea“   É-}      Increase list item indent”      ˝Ùò)      Aumenta il rientro delle voci dell'elenco‘      ‘ÎF¸%      Insert a hard break (a new paragraph)’      Ædi>      Inserisce un'interruzione di riga forzata (un nuovo paragrafo)÷     ÅQÆ.      Insert a new paragraph directly after a widget◊     ˆœXê8      Inserisce un nuovo paragrafo direttamente dopo un widgetÿ   ñbáj/      Insert a new paragraph directly before a widgetŸ    È<      Inserisce un nuovo paragrafo direttamente prima di un widget⁄   »#˙9      Insert a new table row (when in the last cell of a table)€      Çó:\      Inserisce una nuova riga nella tabella (quando ci si trova nell'ultima cella di una tabella)‹   C=ES7      Insert a soft break (a <code>&lt;br&gt;</code> element)›    ∂`£*G      Inserisce un'interruzione di riga (un elemento <code>&lt;br&gt;</code>)ﬁ    Mîû”      Insert column leftﬂ     »g'      Inserisci colonna a sinistra‡   ÙGjT      Insert column right·    J∫„æ      Inserisci colonna a destra‚     H∆s      Insert image„   ·∫%ù      Inserisci immagine‰     ı˚∆y      Insert image via URLÂ   æÆp       Inserisci immagine tramite URLÊ     ’€8≈      Insert paragraph after blockÁ    ºlX      Inserisci paragrafo dopo bloccoË     '{      Insert paragraph before blockÈ      ∫ƒÈﬁ#      Inserisci paragrafo prima di bloccoÍ    à~W®      Insert row aboveÎ   ≤«Á?      Inserisci riga sopraÏ   ∏
+0[      Insert row belowÌ   bÈ"_      Inserisci riga sottoÓ   Wäºb      Insert tableÔ   ≥ °      Inserisci tabella      Æù#      Insert via URLÒ     ¶w–›      Inserisci tramite URLÚ      ~‰∏L      InsetÛ      nˇÍ	      IncassatoÙ      @?Ùn      Invalid start index value.ı     Yoè3'      Valore dell'indice iniziale non valido.ˆ    ô%€      Italic˜     xŸ3      Corsivo¯    ÛéÜ      Italic text˘    òƒ@      Testo in corsivo˙   à≤c˛      Justify cell text˚      £wEf      Testo della cella giustificato¸     ve¯%      Keystrokes that can be used in a list˝      ÁbÅ0      Tasti che possono essere utilizzati in un elenco˛   Z4Ç<+      Keystrokes that can be used in a table cellˇ    ﬁCü÷>      Tasti che possono essere utilizzati nella cella di una tabella     gK7$W      Keystrokes that can be used when a widget is selected (for example: image, table, etc.)   Ù,∑àk      Tasti che possono essere utilizzati quando viene selezionato un widget (ad esempio: immagine, tabella ecc.)   ºHÇ<      Leaving a to-do list  ã≥p_      Esci da elenco di cose da fare    "-ÀS      Left aligned image    Q:£%      Immagine allineata a sinistra     –á∆L
+      Light blue    /±;      Azzurro   A˙Â¯      Light green	   ºQú      Verde chiaro
+  )è¥
+      Light grey    Ã”sû      Grigio chiaro     <√V∆      Link  Ç`b      Collegamento  $Éö˛
+      Link image    ÙÒçX      Collega immagine  e#Í7      Link URL  y©#ë      URL del collegamento  €Î      Link URL must not be empty.   ∞”¡1      L'URL del link non puÚ essere lasciato in bianco.     ≤êåQ      List properties   ≥Gﬁæ      Propriet‡ elenco  Ò-gÑ      Lower-latin   Ñ-Ç]      Lettera minuscola     + ≠l      L o w e r  r o m a n     i       Numero romano minuscolo   4≤ÿ3      MENU_BAR_MENU_EDIT    ÓºÛ%      Modifica  #øö<      MENU_BAR_MENU_FILE    §¸≈      File  ◊î-      MENU_BAR_MENU_FONT    $ÊZ	      Carattere      9üÀ      MENU_BAR_MENU_FORMAT!  GgOØ      Formato"   [’ê      MENU_BAR_MENU_HELP#    †Ó ´      Aiuto$     *+∆      MENU_BAR_MENU_INSERT%  6”sZ	      Inserisci&     k,ﬁ^      MENU_BAR_MENU_TEXT'    )ó™æ      Testo(     P ˆÒ      MENU_BAR_MENU_TOOLS)   –†-‡	      Strumenti*     ˘"“      MENU_BAR_MENU_VIEW+    [“	`      Vista,     =w¥Â      Merge cell down-   ì\4Y      Unisci cella sotto.    ◊‰Ò      Merge cell left/   oè§      Unisci cella a sinistra0   ,Pka      Merge cell right1  €røL      Unisci cella a destra2     |{q      Merge cell up3     ñmMH      Unisci cella sopra4    ˇ˛Â      Merge cells5   Ä˝±ú      Unisci celle6  °¨rä6      Move focus between form fields (inputs, buttons, etc.)7    o˘|M      Seleziona/deseleziona i diversi campi del modulo (inserimenti, pulsanti ecc.)8     ˚´rl:      Move focus from an editable area back to the parent widget9    %C      Sposta lo stato attivo da un'area modificabile al widget principale:   Hﬁ˘s0      Move focus in and out of an active dialog window;  ∆IÙe4      Seleziona/deseleziona una finestra di dialogo attiva<  *Éj∂6      Move focus to the menu bar, navigate between menu bars=    ©+~F      Sposta la selezione sulla barra dei menu, naviga tra le barre dei menu>    åçql4      Move focus to the toolbar, navigate between toolbars?  ÷g◊
+V      Seleziona la barra degli strumenti, permette di spostarsi tra le barre degli strumenti@    çàÅø      Move out of a linkA    Ωúq      Esce da un linkB   ÁP‹       Move out of an inline code styleC  ‡[R·$      Esce da uno stile di codice in lineaD  Ø¡çm6      Move the caret to allow typing directly after a widgetE    é«kƒK      Sposta il cursore per consentire la digitazione direttamente dopo un widgetF   Vºı‰7      Move the caret to allow typing directly before a widgetG   öÅsO      Sposta il cursore per consentire la digitazione direttamente prima di un widgetH   ‡-∆¯#      Move the selection to the next cellI   GíD¢)      Sposta la selezione alla cella successivaJ     6ïA'      Move the selection to the previous cellK   y )      Sposta la selezione alla cella precedenteL     ?Œñç      Navigate through the tableM    ´?÷$/      Permette di spostarsi all'interno della tabellaN   „o±s(      Navigate through the toolbar or menu barO  6Rè9      Naviga nella barra degli strumenti o nella barra dei menuP     2tÎ      NextQ  Œ∑(¡      AvantiR    5 ∞Ò      No results foundS  ç⁄˚      Nessun risultato trovatoT  6#      No searchable itemsU   7S
+      Nessun elemento ricercabileV   ˜ÒÔb      NoneW  áË‡W      NessunoX   ´ÿG$      Numbered ListY     à≈ä      Elenco numeratoZ   ò®Á◊      Numbered list styles toolbar[  =™™:      Barra degli strumenti con gli stili degli elenchi numerati\    Õ‚      Open in a new tab]     ûÃö      Apri in una nuova scheda^  ®2      Open link in new tab_  Ç¡â!      Apri collegamento in nuova scheda`     hƒè"      Open the accessibility help dialoga    ŸwÙ9      Apre la finestra di dialogo della guida all'accessibilit‡b     •ê81      Orangec    ÙŒˇe      Aranciod   ÉB÷      Originale  gÌ—Ø	      Originalef     \7˛&      Outsetg    ˛G—8      Rialzatoh  S¯6      Paddingi   ü;oc      Spaziatura internaj    |òÖq	      Paragraphk     ÄŒµ—	      Paragrafol     œöç      Paste contentm     ø–…      Incolla il contenuton  Ï4      Paste content as plain texto   ·ó'      Incolla il contenuto come testo normalep   ¥Å+      Please enter a valid color (e.g. "ff0000").q   $ltP1      Inserisci un colore valido (ad esempio "ff0000").r     ìIã      Press %0 for help.s    Ù=Wá      Premi %0 per aprire la guida.t     ±¢≤J      Press Enter to type after or press Shift + Enter to type before the widgetu    øNÇƒ`      Premere Invio per inserire dopo il widget o premere Maiusc + Invio per inserire prima del widgetv   ¡˜_      Previousw  æ…0˜      Indietrox  û◊ªß      Purpley    ›’Éö      Porporaz   fŒ      Red{   
+íbv      Rosso|     FâÃ®      Redo}  ›É
+      Ripristina~    !≤&Ó      Remove color  `à˙      Rimuovi coloreÄ    u†(S      Replace from computerÅ     ø0ùn      Sostituisci dal computerÇ  ÙÕc      Replace imageÉ     ‡D¶)      Sostituisci l'immagineÑ    -
+˛ß      Replace image from computerÖ   …eÙi#      Sostituisci l'immagine dal computerÜ   ˇÅÆS      Resize imageá  ÷s‰      Ridimensiona immagineà     1÷      Resize image (in %0)â  Ûá†≈      Ridimensiona immagine (in %0 )ä    ÇEÔ      Resize image to %0ã    ∞°Jœ      Ridimensiona immagine a %0å    ≥<üJ!      Resize image to the original sizeç     Á¸é/      Ridimensiona immagine alle dimensioni originalié   -V˘S      Restore defaultè   ™¨¶d      Ripristina predefinitoê    pµ-V      Reversed orderë    G9≠      Ordine inversoí    í•±/      Revert autoformatting actionì  Tﬁ¬],      Annulla l'azione di formattazione automaticaî  G;ô7      Rich Text Editorï  2Îﬂ}      Editor di testo formattatoñ    '·ù∑"      Rich Text Editor. Editing area: %0ó    ”¥|&      Editor Rich Text. Area di modifica: %0ò    ØY4      Ridgeô     V&~b      Rilievoö   HÁGÖ      Right aligned imageõ   ä{–       Immagine allineata a destraú   Ö∫∂      Rowù   Ãó      Rigaû  6ƒ¡      Saveü  -èm(      Salva†     f[/c      Saving changes°    '$õ      Salvataggio modifiche¢     clˆ
+      Select all£    9;˙‘      Seleziona tutto§   \÷ÉB      Select column•     ¿¡åt      Seleziona colonna¶     ,Õøî
+      Select rowß    ˚Ω/      Seleziona riga®    PÈ≤v      Show more items©   çD+3      Mostra pi˘ elementi™   ¢CJÕ
+      Side image´    ‘ºb™      Immagine laterale¨     q(      Solid≠     öÒ*L      SolidoÆ    …_≥'      Split cell horizontallyØ   ÔëtV      Dividi cella orizzontalmente∞  ∫ë      Split cell vertically±     ∑AXˆ      Dividi cella verticalmente≤    ©ZØ      Square≥    å¡*h      Quadrato¥  ~ÿÔ      Start atµ  è„†	      Inizia da∂     ˆÄ#      Start index must be greater than 0.∑   ≤€J_,      L'indice iniziale deve essere maggiore di 0.∏  ÿﬁŒ      Strikethroughπ     ké¿L      Barrato∫   ˝V.      Strikethrough textª    ^ÉF
+      Testo barratoº     .'ÈŸ      StyleΩ     ‚~{      Stileæ     Å3	      Subscriptø     Û!{À      Pedice¿    £˙eÕ      Superscript¡   tÍ.      Apice¬     kOÜu      Table√     Ö¿§,      Tabellaƒ   ¶∆Œh      Table alignment toolbar≈   ∏U÷5      Barra degli strumenti dell'allineamento della tabella∆     ÑPÖ;      Table cell text alignment«     Ö˜6Ÿ0      Allineamento del testo nella cella della tabella»  á´.Ñ      Table properties…  ≈BP      Propriet‡ tabella      ◊ÖX“      Table toolbarÀ     %. p#      Barra degli strumenti della tabellaÃ   #Wå      Text alternativeÕ  ∏˜.      Testo alternativoŒ     :é&”?      The color is invalid. Try "#FF0000" or "rgb(255,0,0)" or "red".œ   ∆?Ô∑C      Il colore non Ë valido. Provare "#FF0000" o "rgb(255,0,0)" o "red".–   ı:dÚ8      The value is invalid. Try "10px" or "2em" or simply "2".—  ’»mıC      Il valore non Ë valido. Provare "10px" o "2em" o semplicemente "2".“   ^ó˜      The value must not be empty.”  ÚkE3      Il valore non puÚ essere essere lasciato in bianco.‘   N’K#      The value should be a plain number.’   &ﬂ∏'      Il valore deve essere un numero intero.÷   ≈;Ù„L      These keyboard shortcuts allow for quick access to content editing features.◊  ◊¿€?n      Queste scorciatoie da tastiera permettono di accedere velocemente alle funzionalit‡ di modifica del contenuto.ÿ    ˚>      This link has no URLŸ  ùo–!      Questo collegamento non ha un URL⁄     ÿ*ü
+      To-do List€    Ô¸Æ      Elenco cose da fare‹   Ÿ8—›      Toggle caption off›    ∏	      Disattiva didascaliaﬁ  
+‰4+      Toggle caption onﬂ     ΩÂıÌ      Attiva didascalia‡     ¢πar      Toggle the circle list style·  fù¥‡2      Attiva/disattiva lo stile degli elenchi con cerchi‚    Wkãó      Toggle the decimal list style„     ¡ö#2      Attiva/disattiva lo stile degli elenchi con numeri‰    háS/      Toggle the decimal with leading zero list styleÂ   >º∞|E      Attiva/disattiva lo stile degli elenchi con numeri con zero antepostoÊ     ≠ß„–      Toggle the disc list styleÁ    4mÎ2      Attiva/disattiva lo stile degli elenchi con dischiË    È¨r>!      T o g g l e   t h e   l o w e r  l a t i n   l i s t   s t y l e È    èôﬂ=      Attiva/disattiva lo stile degli elenchi con lettere minuscoleÍ     Çù¥!      T o g g l e   t h e   l o w e r  r o m a n   l i s t   s t y l e Î    ò!∑«C      Attiva/disattiva lo stile degli elenchi con numeri romani minuscoliÏ   ÌQ«      Toggle the square list styleÌ  ÖîÕE4      Attiva/disattiva lo stile degli elenchi con quadratiÓ  F'ı!      T o g g l e   t h e   u p p e r  l a t i n   l i s t   s t y l e Ô    —î¡Ÿ=      Attiva/disattiva lo stile degli elenchi con lettere maiuscole     2Œ,í!      T o g g l e   t h e   u p p e r  r o m a n   l i s t   s t y l e Ò    ›«QC      Attiva/disattiva lo stile degli elenchi con numeri romani maiuscoliÚ   y'¬	      TurquoiseÛ     9tˆp      TurcheseÙ  ,u›ç       Type or paste your content here.ı  È3´~.      Inserire o incollare qui il proprio contenuto.ˆ    ¶
+A!      Type your title˜   »!      Inserire il proprio titolo¯    Ê U>	      Underline˘     ‚Ó€T      Sottolineato˙  f€zæ      Underline text˚    Ù—˜‚      Testo sottolineato¸    +ú÷∫      Undo˝  ä≥ºã      Unlink˛    Úå˙«      Elimina collegamentoˇ  ©@4"      Update image URL   7Œ5[      Aggiorna URL immagine     iêˇ      Upload failed     ‰h«      Caricamento fallito   ÿÎØ      Upload from computer  ík˚O      Carica dal computer   ﬂ˚>ˇ      Upload image from computer    ^çÕ∂      Carica l'immagine dal computer    ä¸Í      Upload in progress    \©      Caricamento in corso	  _G÷Œ      Uploading image
+   [®π;      Caricamento immagine in corso     ‹ÿp      Upper-latin   ƒï(]      Lettera maiuscola     À±∑      Upper-roman   π‡U      Numero romano maiuscolo   'FK\      Use the following keystrokes for more efficient navigation in the CKEditor 5 user interface.  _ˇJAc      Utilizza i seguenti tasti per una navigazione pi˘ efficiente nell'interfaccia utente di CKEditor 5.   Ño¯·0      User interface and content navigation keystrokes  K˘%À@      Tasti per la navigazione nell'interfaccia utente e nei contenuti  ËÕy      Vertical text alignment toolbar   Ω]ºå;      Barra degli strumenti dell'allineamento verticale del testo   K»#      Via URL   ú•Â„      Tramite URL   íã¥√      White     ﬁÀ      Bianco    ]I≥8      Widget toolbar    Ö‘¡É       Barra degli strumenti del widget  Ωâµ      Width     ¥(®Ê	      Larghezza     º≤F∫	      Wrap text     eU⁄∆      Testo a capo  ¿˙5      Yellow     9”‰R      Giallo!    Ÿ`˘‘%      You have no image upload permissions."     ˜∑Â=      Non disponi di autorizzazione per il caricamento di immagini.#     ’ı™/      getPluralForm$     ¯2áâ      window%    ŒÏ ∂      CKEDITOR_TRANSLATIONS&     Ö]∑      46051/<'   ¡—AG      46051/i.getPluralForm        3                   Ô%,â                                                                                       ≥Oåc                   Î `                             e            i               e  Ø¬0∞IÙ$KEÆ˙ö    	                                            á&’™ç!´!   ê      ¡P∫¨ê   W                          ∫   ∫   J   ù   ó   ﬁh    ó   M   ‡J   „h   :   i    9   „≥m   ?i   w ﬁ• `∞ D
++ˇˇˇŒP$TPÄÄÄh   Àéßh   5                          m    ∫   J   ù   ó   ﬁ∫   9   M   ó   s ﬁ• `Ä 8–© ˇˇˇˇPAP∞  ‰Í †                       ∞±   ﬁª  ª  J   ù   ó   ﬁ9   ó   M   ±   ﬁΩ   ∫   ‡J   „Ω   J   ù   ó   ﬁ9   ó	   8   <	   
+   <      <      <      <      <      <      <      <      <      <      <       <!   "   <#   $   <%   &   <'   (   <)   *   <+   ,   <-   .   </   0   <1   2   <3   4   <5   6   <7   8   <9   :   <;   <   <=   >   <?   @   <A   B   <C   D   <E   F   <G   H   <I   J   <K   L   <M   N   <O   P   <Q   R   <S   T   <U   V   <W   X   <Y   Z   <[   \   <]   ^   <_   `   <a   b   <c   d   <e   f   <g   h   <i   j   <k   l   <m   n   <o   p   <q   r   <s   t   <u   v   <w   x   <y   z   <{   |   <}   ~   <   Ä   <Å   Ç   <É   Ñ   <Ö   Ü   <á   à   <â   ä   <ã   å   <ç   é   <è   ê   <ë   í   <ì   î   <ï   ñ   <ó   ò   <ô   ö   <õ   ú   <ù   û   <ü   †   <°   ¢   <£   §   <•   ¶   <ß   ®   <©   ™   <´   ¨   <≠   Æ   <Ø   ∞   <±   ≤   <≥   ¥   <µ   ∂   <∑   ∏   <π   ∫   <ª   º   <Ω   æ   <ø   ¿   <¿   ¡   <¬   √   <ƒ   ≈   <∆   «   <»   …   <    À   <Ã   Õ   <Œ   œ   <–   —   <“   ”   <‘   ’   <÷   ◊   <ÿ   Ÿ   <⁄   €   <‹   ›   <ﬁ   ﬂ   <‡   ·   <‚   „   <‰   Â   <Ê   Á   <Ë   È   <Í   Î   <Ï   Ì   <Ó   Ô   <   Ò   <Ú   Û   <Ù   ı   <ˆ   ˜   <¯   ˘   <˙   ˚   <¸   ˝   <˛   ˇ   <     <    <    <    <  	  <
+    <    <    <    <    <    <    <    <    <    <    <   !  <"  #  <$  %  <&  '  <(  )  <*  +  <,  -  <.  /  <0  1  <2  3  <4  5  <6  7  <8  9  <:  ;  <<  =  <>  ?  <@  A  <B  C  <D  E  <F  G  <H  I  <J  K  <L  M  <N  O  <P  Q  <R  S  <T  U  <V  W  <X  Y  <Z  [  <\  ]  <^  _  <`  a  <b  c  <d  e  <f  g  <h  i  <j  k  <l  m  <n  o  <p  q  <r  s  <t  u  <v  w  <x  y  <z  {  <|  }  <~    <Ä  Å  <Ç  É  <Ñ  Ö  <Ü  á  <à  â  <ä  ã  <å  ç  <é  è  <ê  ë  <í  ì  <î  ï  <ñ  ó  <ò  ô  <ö  õ  <ú  ù  <û  ü  <†  °  <¢  £  <§  •  <¶  ß  <®  ©  <™  ´  <¨  ≠  <Æ  Ø  <∞  ±  <≤  ≥  <¥  µ  <∂  ∑  <∏  π  <∫  ª  <º  Ω  <æ  ø  <¿  ¡  <¬  √  <ƒ  ≈  <∆  «  <»  …  <   À  <Ã  Õ  <Œ  œ  <–  —  <“  ”  <‘  ’  <÷  ◊  <ÿ  Ÿ  <⁄  €  <‹  ›  <ﬁ  ﬂ  <‡  ·  <‚  „  <‰  Â  <Ê  Á  <Ë  È  <Í  Î  <Ï  Ì  <Ó  Ô  <  Ò  <Ú  Û  <Ù  ı  <ˆ  ˜  <¯  ˘  <˙  ˚  <¸  <   <˝  ˛  <ˇ     <    <    <    <    <	  
+  <    <    <    <    <    <    <    <    <    <    <     <!  "  <#  s M   ﬁΩ   m$  M%  ﬁ—• 	`™ `ê û 
+?
+
+
+
+/
+H
+I
+H
+H
+G
+D
+7
+6
+
+
+
+Ä  º
+
+!
+
+
+!
+
+ 
+!
+[
+
+6
+7
+3
+$
++
+%
+I
+*
+
+
+8
+
+w
+
+
+"
+
+C
+9
+
+
+9
+
+
+8
+K
+"
+
+
+
+
+
+
+
+'
+>
+
+$
+Z
+L
+2
+=
+/
+5
+:
+=
+;
+J
+Ä  
+
+1
+
+
+
+'
+#
+
+
+
+
+
+
+
+
+|
+
+
+d
+
+.
+8
+6
+:
+'
+!
+
+H
+i
+l
+q
+Ä  õ
+Ä  Ñ
+4
+3
+$
+8
+A
+F
+*
+*
+#
+)
+
+G
+
+!
+5
+[
+o
+Ä  »
+8
+5
+
+
+
+
+ 
+"
+R
+%
+"
+(
+
+
+
+
+
+!
+
+ 
+
+'
+,
++
+%
+
+Ä  â
+Ä  É
+j
+Ä  Ç
+Ä  ê
+'
+J
+Ä  á
+Ä  å
+R
+V
+O
+g
+
+.
+4
+
+"
+\
+/
+;
+a
+
+
+
+
+
+'
+H
+b
+5
+Ä  ∞
+
+
+
+
+ 
+3
+)
+D
+'
+8
+2
+V
++
+"
+N
+0
+N
+
+4
+
+
+)
+
+$
+
+(
+!
+
+9
+5
+
+
+U
+
+%
+
+
+
+
+R
+O
+'
+6
+'
+Ä  à
+Ä  Å
+U
+P
+Ä  ¿
+;
+#
+,
+(
+T
+U
+z
+R
+d
+j
+V
+d
+j
+
+T
+/
+
+&
+
+
++
+&
+-
+>
+,
+2
+"
+(
+Ä  ≈
+v
+`
+
+
+4
+
+
+
+ˇˇ»P	Ä 8Zê =P∞           ˇˇˇˇÑ   '⁄Ñ   W                         ª  ö   ó   ô@   ó   ª  ú   ó   ﬁª  	@B,ó   ö   ó   ô   ó   ó   ¢• `
+ö ∫ Q3ıÿ  `  `  `ù   @e        @    
+  	                                               "  !  $  #  &  %  (  '  *  )  ,  +  .  -  0  /  2  1  4  3  6  5  8  7  :  9  <  ;  >  =  @  ?  B  A  D  C  F  E  H  G  J  I  L  K  N  M  P  O  R  Q  T  S  V  U  X  W  Z  Y  \  [  ^  ]  `  _  b  a  d  c  f  e  h  g  j  i  l  k  n  m  p  o  r  q  t  s  v  u  x  w  z  y  |  {  ~  }  Ä    Ç  Å  Ñ  É  Ü  Ö  à  á  ä  â  å  ã  é  ç  ê  è  í  ë  î  ì  ñ  ï  ò  ó  ö  ô  ú  õ  û  ù  †  ü  ¢  °  §  £  ¶  •  ®  ß  ™  ©  ¨  ´  Æ  ≠  ∞  Ø  ≤  ±  ¥  ≥  ∂  µ  ∏  ∑  ∫  π  º  ª  æ  Ω  ø  ¡  ¿  √  ¬  ≈  ƒ  «  ∆  …  »  À     Õ  Ã  œ  Œ  —  –  ”  “  ’  ‘  ◊  ÷  Ÿ  ÿ  €  ⁄  ›  ‹  ﬂ  ﬁ  ·  ‡  „  ‚  Â  ‰  Á  Ê  È  Ë  Î  Í  Ì  Ï  Ô  Ó  Ò    Û  Ú  ı  Ù  ˜  ˆ  ˘  ¯  ˚  ˙  ˝  ¸  ˇ  ˛           	   
+                     !   # " % $ ' & ) ( + * - , / . 1 0 3 2 5 4 7 6 9 8 ; : = < ? > A @ C B E D G F I H K J M L O N Q P S R U T W V Y X [ Z ] \ _ ^ a ` c b e d g f i h k j m l o n q p s r u t w v y x { z } |  ~ Å Ä É Ç Ö Ñ á Ü â à ã ä ç å è é ë ê ì í ï î ó ñ ô ò õ ö ù ú ü û ° † £ ¢ • § ß ¶ © ® ´ ™ ≠ ¨ Ø Æ ± ∞ ≥ ≤ µ ¥ ∑ ∂ π ∏ ª ∫ Ω º ø æ ¡ ¿ √ ¬ ≈ ƒ « ∆ … » À   Õ Ã œ Œ — – ” “ ’ ‘ ◊ ÷ Ÿ ÿ € ⁄ › ‹ ﬂ ﬁ · ‡ „ ‚ Â ‰ Á Ê È Ë Î Í Ì Ï Ô Ó Ò  Û Ú ı Ù ˜ ˆ ˘ ¯ ˚ ˙ ¸ ˛ ˝   ˇ         
+ 	                        " !   p#   `  p$ %   @   `          @  @  pˇXÑ,                '           !
+    &  &              '       ùH©“      ˛9      ˛9                  x   ¶9  x   ¶9     y             Ü   d9  ~   d9     á            >9  c9  69  c9     '9         mŒ˝î                                5°›ÏiÆ¸πSúñ¬      gYjägYjäG¶‹ìhF©   ú    O^partitionKey=%28https%2Cnewtimegroup.it%29,:https://openproject.newtimegroup.it/assets/frontend/src_vendor_ckeditor_translations_it_js.35338d5a6c25c638.js necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 11 Dec 2024 09:27:41 GMT
+Content-Type: application/javascript
+Content-Length: 14846
+Access-Control-Allow-Methods: GET, OPTIONS, HEAD
+Access-Control-Allow-Origin: *
+Cache-Control: public, s-maxage=31536000, max-age=15552000
+Expires: Thu, 11 Dec 2025 08:51:55 +0000
+Last-Modified: Tue, 29 Oct 2024 09:40:10 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Served-By: openproject.newtimegroup.it
+ original-response-headers Server: openresty
+Date: Wed, 11 Dec 2024 09:27:41 GMT
+Content-Type: application/javascript
+Content-Length: 14846
+Connection: keep-alive
+Access-Control-Allow-Methods: GET, OPTIONS, HEAD
+Access-Control-Allow-Origin: *
+Cache-Control: public, s-maxage=31536000, max-age=15552000
+Expires: Thu, 11 Dec 2025 08:51:55 +0000
+Last-Modified: Tue, 29 Oct 2024 09:40:10 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Served-By: openproject.newtimegroup.it
+ ctid 2 uncompressed-len 0 net-response-time-onstart 7 net-response-time-onstop 8 alt-data 1;14846,javascript/moz-module-bytecode-20240819223648-8l alt-data-from-child 1   È

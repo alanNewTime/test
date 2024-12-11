@@ -1,0 +1,11 @@
+2024-12-11 10:12:04.294 [info] update#setState idle
+2024-12-11 10:12:06.341 [error] vscode-file: Refused to load resource /usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-12-11 10:12:07.753 [error] vscode-file: Refused to load resource /usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-12-11 10:12:07.785 [error] vscode-file: Refused to load resource /usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-12-11 10:12:14.061 [info] Extension host with pid 15623 exited with code: 0, signal: unknown.
+2024-12-11 10:12:14.100 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown
+2024-12-11 10:12:15.459 [info] Extension host with pid 15564 exited with code: 0, signal: unknown.
+2024-12-11 10:12:34.012 [info] update#setState checking for updates
+2024-12-11 10:12:34.016 [info] update#setState idle
+2024-12-11 10:12:59.288 [info] Extension host with pid 15517 exited with code: 0, signal: unknown.
+2024-12-11 10:12:59.322 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown

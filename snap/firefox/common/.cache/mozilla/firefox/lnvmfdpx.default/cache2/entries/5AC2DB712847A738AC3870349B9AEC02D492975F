@@ -1,0 +1,275 @@
+
+
+'use strict';
+{
+  const globals = this;
+  const django = globals.django || (globals.django = {});
+
+  
+  django.pluralidx = function(n) {
+    const v = (n != 1);
+    if (typeof v === 'boolean') {
+      return v ? 1 : 0;
+    } else {
+      return v;
+    }
+  };
+  
+
+  /* gettext library */
+
+  django.catalog = django.catalog || {};
+  
+  const newcatalog = {
+    "%(sel)s of %(cnt)s selected": [
+      "%(sel)s di %(cnt)s selezionato",
+      "%(sel)s di %(cnt)s selezionati"
+    ],
+    "%s selected option not visible": [
+      "%s opzione selezionata non visibile",
+      "%s opzioni selezionate non visibili"
+    ],
+    "6 a.m.": "6 del mattino",
+    "6 p.m.": "6 del pomeriggio",
+    "April": "Aprile",
+    "August": "Agosto",
+    "Author": "Autore",
+    "Automatically detected errors": "Errori rilevati automaticamente",
+    "Available %s": "%s disponibili",
+    "Cancel": "Annulla",
+    "Choose": "Scegli",
+    "Choose a Date": "Scegli una data",
+    "Choose a Time": "Scegli un orario",
+    "Choose a time": "Scegli un orario",
+    "Choose all": "Scegli tutto",
+    "Chosen %s": "%s scelti",
+    "Click here to install browser extension": "Fai clic qui per installare l'estensione del browser",
+    "Click to choose all %s at once.": "Fai clic per scegliere tutti i %s in una volta.",
+    "Click to remove all chosen %s at once.": "Fai clic per eliminare tutti i %s in una volta.",
+    "Compatible with": "Compatibile con",
+    "December": "Dicembre",
+    "Downloads": "Scaricamenti",
+    "Extension version": "Versione dell'estensione",
+    "February": "Febbraio",
+    "Filter": "Filtro",
+    "GNOME Shell Extensions cannot list your installed extensions.": "Estensioni per GNOME Shell non \u00e8 in grado di elencare le tue estensioni installate.",
+    "GNOME Shell Extensions did not detect any errors with this extension.": "Estensioni per GNOME Shell non ha rilevato alcun errore con questa estensione.",
+    "Hide": "Nascondi",
+    "Install GNOME Shell integration browser extension": "Installa l'estensione per l'integrazione browser",
+    "January": "Gennaio",
+    "July": "Luglio",
+    "June": "Giugno",
+    "March": "Marzo",
+    "May": "Maggio",
+    "Midnight": "Mezzanotte",
+    "Name": "Nome",
+    "Noon": "Mezzogiorno",
+    "Note: You are %s hour ahead of server time.": [
+      "Nota: Sei %s ora in anticipo rispetto al server.",
+      "Nota: Sei %s ore in anticipo rispetto al server."
+    ],
+    "Note: You are %s hour behind server time.": [
+      "Nota: Sei %s ora in ritardo rispetto al server.",
+      "Nota: Sei %s ore in ritardo rispetto al server."
+    ],
+    "November": "Novembre",
+    "Now": "Adesso",
+    "October": "Ottobre",
+    "Popularity": "Popolarit\u00e0",
+    "Recent": "Recenti",
+    "Remove": "Elimina",
+    "Remove all": "Elimina tutti",
+    "See %swiki page%s for native host connector installation instructions": "Consultare %swiki page%s per le istruzioni d'installazione del connettore nativo per questo host",
+    "September": "Settembre",
+    "Shell version": "Versione della Shell",
+    "Show": "Mostra",
+    "Show more reviews": "Mostra pi\u00f9 recensioni",
+    "Sort by": "Ordina per",
+    "System extension": "Estensione di sistema",
+    "There are no comments. Be the first!": "Non ci sono commenti ancora. Lascia tu il primo!",
+    "This is the list of available %s. You may choose some by selecting them in the box below and then clicking the \"Choose\" arrow between the two boxes.": "Questa \u00e8 la lista dei %s disponibili. Puoi sceglierne alcuni selezionandoli nella casella qui sotto e poi facendo clic sulla freccia \"Scegli\" tra le due caselle.",
+    "This is the list of chosen %s. You may remove some by selecting them in the box below and then clicking the \"Remove\" arrow between the two boxes.": "Questa \u00e8 la lista dei %s scelti. Puoi eliminarne alcuni selezionandoli nella casella qui sotto e poi facendo clic sulla freccia \"Elimina\" tra le due caselle.",
+    "To control GNOME Shell extensions using this site you must install GNOME Shell integration that consists of two parts: browser extension and native host messaging application": "Per controllare le estensioni di GNOME Shell utilizzando questo sito web, \u00e8 necessario installare l'integrazione con la GNOME Shell che consiste di: un'estensione per il browser e un programma nativo per il proprio sistema operativo per la gestione dei messaggi.",
+    "Today": "Oggi",
+    "Tomorrow": "Domani",
+    "Type into this box to filter down the list of available %s.": "Scrivi in questa casella per filtrare l'elenco dei %s disponibili.",
+    "Type into this box to filter down the list of selected %s.": "Scrivi in questa casella per filtrare l'elenco dei %s selezionati.",
+    "Unknown": "Sconosciuta",
+    "Version information": "Informazioni sulla versione",
+    "We cannot detect a running copy of GNOME on this system, so some parts of the interface may be disabled. See <a href=\"/about/#no-detection\">our troubleshooting entry</a> for more information.": "Impossibile rilevare una versione di GNOME sul sistema: il sito potrebbe non funzionare correttamente. Per maggiori informazioni, consultare <a href=\"/about/#no-detection\">la guida alla risoluzione dei problemi</a>.",
+    "What have you tried?": "Che cosa hai provato a fare?",
+    "What's wrong?": "Cosa c'\u00e8 che non funziona?",
+    "Yesterday": "Ieri",
+    "You have selected an action, and you haven\u2019t made any changes on individual fields. You\u2019re probably looking for the Go button rather than the Save button.": "Hai selezionato un'azione e non hai ancora apportato alcuna modifica ai campi singoli. Probabilmente stai cercando il pulsante Vai, invece di Salva.",
+    "You have selected an action, but you haven\u2019t saved your changes to individual fields yet. Please click OK to save. You\u2019ll need to re-run the action.": "Hai selezionato un'azione, ma non hai ancora salvato le modifiche apportate a campi singoli. Fai clic su OK per salvare. Poi dovrai rieseguire l'azione.",
+    "You have unsaved changes on individual editable fields. If you run an action, your unsaved changes will be lost.": "Ci sono aggiornamenti non salvati su singoli campi modificabili. Se esegui un'azione, le modifiche non salvate andranno perse.",
+    "You uninstalled": "Rimossa",
+    "abbrev. month April\u0004Apr": "Apr",
+    "abbrev. month August\u0004Aug": "Ago",
+    "abbrev. month December\u0004Dec": "Dic",
+    "abbrev. month February\u0004Feb": "Feb",
+    "abbrev. month January\u0004Jan": "Gen",
+    "abbrev. month July\u0004Jul": "Lug",
+    "abbrev. month June\u0004Jun": "Giu",
+    "abbrev. month March\u0004Mar": "Mar",
+    "abbrev. month May\u0004May": "Mag",
+    "abbrev. month November\u0004Nov": "Nov",
+    "abbrev. month October\u0004Oct": "Ott",
+    "abbrev. month September\u0004Sep": "Set",
+    "one letter Friday\u0004F": "V",
+    "one letter Monday\u0004M": "L",
+    "one letter Saturday\u0004S": "S",
+    "one letter Sunday\u0004S": "D",
+    "one letter Thursday\u0004T": "G",
+    "one letter Tuesday\u0004T": "Ma",
+    "one letter Wednesday\u0004W": "Me"
+  };
+  for (const key in newcatalog) {
+    django.catalog[key] = newcatalog[key];
+  }
+  
+
+  if (!django.jsi18n_initialized) {
+    django.gettext = function(msgid) {
+      const value = django.catalog[msgid];
+      if (typeof value === 'undefined') {
+        return msgid;
+      } else {
+        return (typeof value === 'string') ? value : value[0];
+      }
+    };
+
+    django.ngettext = function(singular, plural, count) {
+      const value = django.catalog[singular];
+      if (typeof value === 'undefined') {
+        return (count == 1) ? singular : plural;
+      } else {
+        return value.constructor === Array ? value[django.pluralidx(count)] : value;
+      }
+    };
+
+    django.gettext_noop = function(msgid) { return msgid; };
+
+    django.pgettext = function(context, msgid) {
+      let value = django.gettext(context + '\x04' + msgid);
+      if (value.includes('\x04')) {
+        value = msgid;
+      }
+      return value;
+    };
+
+    django.npgettext = function(context, singular, plural, count) {
+      let value = django.ngettext(context + '\x04' + singular, context + '\x04' + plural, count);
+      if (value.includes('\x04')) {
+        value = django.ngettext(singular, plural, count);
+      }
+      return value;
+    };
+
+    django.interpolate = function(fmt, obj, named) {
+      if (named) {
+        return fmt.replace(/%\(\w+\)s/g, function(match){return String(obj[match.slice(2,-2)])});
+      } else {
+        return fmt.replace(/%s/g, function(match){return String(obj.shift())});
+      }
+    };
+
+
+    /* formatting library */
+
+    django.formats = {
+    "DATETIME_FORMAT": "l d F Y H:i",
+    "DATETIME_INPUT_FORMATS": [
+      "%d/%m/%Y %H:%M:%S",
+      "%d/%m/%Y %H:%M:%S.%f",
+      "%d/%m/%Y %H:%M",
+      "%d/%m/%y %H:%M:%S",
+      "%d/%m/%y %H:%M:%S.%f",
+      "%d/%m/%y %H:%M",
+      "%Y-%m-%d %H:%M:%S",
+      "%Y-%m-%d %H:%M:%S.%f",
+      "%Y-%m-%d %H:%M",
+      "%d-%m-%Y %H:%M:%S",
+      "%d-%m-%Y %H:%M:%S.%f",
+      "%d-%m-%Y %H:%M",
+      "%d-%m-%y %H:%M:%S",
+      "%d-%m-%y %H:%M:%S.%f",
+      "%d-%m-%y %H:%M",
+      "%Y-%m-%d"
+    ],
+    "DATE_FORMAT": "d F Y",
+    "DATE_INPUT_FORMATS": [
+      "%d/%m/%Y",
+      "%Y/%m/%d",
+      "%d-%m-%Y",
+      "%Y-%m-%d",
+      "%d-%m-%y",
+      "%d/%m/%y"
+    ],
+    "DECIMAL_SEPARATOR": ",",
+    "FIRST_DAY_OF_WEEK": 1,
+    "MONTH_DAY_FORMAT": "j F",
+    "NUMBER_GROUPING": 3,
+    "SHORT_DATETIME_FORMAT": "d/m/Y H:i",
+    "SHORT_DATE_FORMAT": "d/m/Y",
+    "THOUSAND_SEPARATOR": ".",
+    "TIME_FORMAT": "H:i",
+    "TIME_INPUT_FORMATS": [
+      "%H:%M:%S",
+      "%H:%M:%S.%f",
+      "%H:%M"
+    ],
+    "YEAR_MONTH_FORMAT": "F Y"
+  };
+
+    django.get_format = function(format_type) {
+      const value = django.formats[format_type];
+      if (typeof value === 'undefined') {
+        return format_type;
+      } else {
+        return value;
+      }
+    };
+
+    /* add to global namespace */
+    globals.pluralidx = django.pluralidx;
+    globals.gettext = django.gettext;
+    globals.ngettext = django.ngettext;
+    globals.gettext_noop = django.gettext_noop;
+    globals.pgettext = django.pgettext;
+    globals.npgettext = django.npgettext;
+    globals.interpolate = django.interpolate;
+    globals.get_format = django.get_format;
+
+    django.jsi18n_initialized = true;
+  }
+};
+
+#ôrbç≈           gYk3G¢‚ùgYk3   L    O^partitionKey=%28https%2Cgnome.org%29,:https://extensions.gnome.org/jsi18n/ strongly-framed 1 security-info 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 request-method GET request-Accept-Language it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3 response-head HTTP/2 200 
+server: nginx
+date: Wed, 11 Dec 2024 10:36:35 GMT
+content-type: text/javascript; charset="utf-8"
+content-length: 10346
+strict-transport-security: max-age=14400; includeSubDomains
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin
+vary: Accept-Language, origin
+content-language: it
+x-content-type-options: nosniff, nosniff
+x-frame-options: DENY, SAMEORIGIN
+X-Firefox-Spdy: h2
+ original-response-headers server: nginx
+date: Wed, 11 Dec 2024 10:36:35 GMT
+content-type: text/javascript; charset="utf-8"
+content-length: 10346
+strict-transport-security: max-age=14400; includeSubDomains
+x-content-type-options: nosniff
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin
+x-frame-options: DENY
+vary: Accept-Language, origin
+content-language: it
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+X-Firefox-Spdy: h2
+ ctid 2 uncompressed-len 0 net-response-time-onstart 149 net-response-time-onstop 150   (j

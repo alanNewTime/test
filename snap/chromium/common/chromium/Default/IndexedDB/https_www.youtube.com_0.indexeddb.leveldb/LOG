@@ -1,0 +1,5 @@
+2024/12/11-11:39:20.733 1d9c Creating DB /home/alan-omam/snap/chromium/common/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/12/11-11:39:20.739 1d9c Reusing MANIFEST /home/alan-omam/snap/chromium/common/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/11-12:51:43.567 1d9c Level-0 table #5: started
+2024/12/11-12:51:43.588 1d9c Level-0 table #5: 1256140 bytes OK
+2024/12/11-12:51:43.592 1d9c Delete type=0 #3

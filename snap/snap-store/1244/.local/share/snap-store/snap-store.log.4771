@@ -1,0 +1,2 @@
+2024-12-11 11:16:38.056617 ERROR packagekit: Couldn't resolve package google-chrome-stable with architectures [amd64, all]
+2024-12-11 11:21:41.857999 ERROR packagekit: Couldn't resolve package google-chrome-stable with architectures [amd64, all]
